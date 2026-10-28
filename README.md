@@ -83,7 +83,7 @@ To build from source instead, clone the repository, copy `.env.docker.example` t
 
 ### Or paste one compose file (NAS, Portainer, Dockge)
 
-If your NAS or Docker UI takes a single compose file, paste this one. Replace every `CHANGE_ME` value first: use the same database password in both places, and the same Redis password in all three. Generate passwords with `openssl rand -base64 24 | tr -d '/+='` or any password manager (letters and digits only).
+If your NAS or Docker UI takes a single compose file, paste this one. Replace every `CHANGE_ME` value first: use the same database password in both places, and the same Redis password in all three. Generate passwords with `openssl rand -base64 24 | tr -d '/+='` or any password manager (any characters work, including `@` or `/`; avoid `$` in a `.env` file and spaces or quotes).
 
 ```yaml
 name: wallethistory
@@ -96,8 +96,8 @@ services:
       - "1314:3000"                     # host port:container port
     environment:
       APP_URL: http://CHANGE_ME:1314    # the address you open in the browser, e.g. http://192.168.0.121:1314
-      DATABASE_URL: postgres://wallethistory:CHANGE_ME_DB_PASSWORD@db:5432/wallethistory
-      REDIS_URL: redis://:CHANGE_ME_REDIS_PASSWORD@redis:6379
+      POSTGRES_PASSWORD: CHANGE_ME_DB_PASSWORD      # the connection URLs are built from these
+      REDIS_PASSWORD: CHANGE_ME_REDIS_PASSWORD
       TRUSTED_PROXY_HOPS: "0"           # 1 if a reverse proxy (HTTPS) is in front
       REQUIRE_EMAIL_VERIFICATION: "false"
       # Optional: real email. Without SMTP_HOST, emails are printed to the app log.
@@ -214,7 +214,7 @@ Redis is only a cache and needs no backup.
 | `SMTP_USER`, `SMTP_PASS` | | SMTP credentials. Leave empty for a server without authentication. |
 | `SMTP_FROM` | `WalletHistory <noreply@example.com>` | Sender address. |
 
-Advanced variables (`DATABASE_URL`, `REDIS_URL`, `DATABASE_POOL_MAX`) are set by the compose file and only need changing if you use your own Postgres or Redis.
+The connection URLs are built from the two passwords. Advanced variables (`DATABASE_URL`, `REDIS_URL`, `DATABASE_POOL_MAX`) override that and only need setting if you use your own Postgres or Redis.
 
 ### Health check
 
