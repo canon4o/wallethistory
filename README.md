@@ -13,6 +13,8 @@
 [![Docker image](https://img.shields.io/badge/ghcr.io-canon4o%2Fwallethistory-blue?logo=docker)](https://github.com/canon4o/wallethistory/pkgs/container/wallethistory)
 [![License: Elastic 2.0](https://img.shields.io/badge/License-Elastic%202.0-blue.svg)](LICENSE)
 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/YOURUSERNAME)
+
 </div>
 
 **WalletHistory** keeps track of where your money goes: accounts, income and expenses, budgets, savings goals and reports, for you alone or shared with your household. Your data stays in your own Postgres database.
