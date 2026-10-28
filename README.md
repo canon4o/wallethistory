@@ -13,7 +13,7 @@
 [![Docker image](https://img.shields.io/badge/ghcr.io-canon4o%2Fwallethistory-blue?logo=docker)](https://github.com/canon4o/wallethistory/pkgs/container/wallethistory)
 [![License: Elastic 2.0](https://img.shields.io/badge/License-Elastic%202.0-blue.svg)](LICENSE)
 
-[![Buy me a beer](https://img.shields.io/badge/Buy%20me%20a%20beer-FFDD00?logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/canon4o)
+<a href="https://www.buymeacoffee.com/canon4o"><img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20beer&emoji=&slug=canon4o&button_colour=FFDD00&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=ffffff" height="40" alt="Buy me a beer"></a>
 
 </div>
 
