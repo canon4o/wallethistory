@@ -13,7 +13,7 @@
 [![Docker image](https://img.shields.io/badge/ghcr.io-canon4o%2Fwallethistory-blue?logo=docker)](https://github.com/canon4o/wallethistory/pkgs/container/wallethistory)
 [![License: Elastic 2.0](https://img.shields.io/badge/License-Elastic%202.0-blue.svg)](LICENSE)
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/YOURUSERNAME)
+[![Buy me a beer](https://img.shields.io/badge/Buy%20me%20a%20beer-FFDD00?logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/canon4o)
 
 </div>
 
