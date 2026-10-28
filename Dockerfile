@@ -37,10 +37,10 @@ COPY --from=build /app/.next/static ./.next/static
 COPY --from=build /app/public ./public
 COPY --from=migrator /app/docker/node_modules ./docker/node_modules
 COPY db/migrations ./db/migrations
-COPY docker/migrate.mjs ./docker/migrate.mjs
+COPY docker/migrate.mjs docker/start.sh ./docker/
 USER node
 EXPOSE 3000
 HEALTHCHECK --interval=30s --timeout=5s --start-period=60s --retries=3 \
   CMD node -e "fetch('http://127.0.0.1:3000/api/health').then((r) => process.exit(r.ok ? 0 : 1)).catch(() => process.exit(1))"
 # A failed migration stops the container before the app starts (see `docker compose logs app`).
-CMD ["sh", "-c", "node docker/migrate.mjs && exec node server.js"]
+CMD ["sh", "docker/start.sh"]

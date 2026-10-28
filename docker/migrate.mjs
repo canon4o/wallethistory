@@ -12,6 +12,13 @@ if (!url) {
   process.exit(1);
 }
 
+try {
+  new URL(url);
+} catch {
+  console.error("DATABASE_URL is not a valid URL. Expected postgres://user:password@host:5432/database (percent-encode special characters in the password, or set POSTGRES_PASSWORD instead).");
+  process.exit(1);
+}
+
 const sql = postgres(url, { max: 1, onnotice: () => {} });
 try {
   await migrate(drizzle(sql), { migrationsFolder: path.resolve(process.cwd(), "db/migrations") });
