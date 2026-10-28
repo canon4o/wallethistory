@@ -8,7 +8,7 @@ import postgres from "postgres";
 
 const url = process.env.DATABASE_URL;
 if (!url) {
-  console.error("DATABASE_URL is required");
+  console.error("DATABASE_URL is required. In Docker, set POSTGRES_PASSWORD on the app service (docker/start.sh builds the URL from it), or set DATABASE_URL yourself.");
   process.exit(1);
 }
 
