@@ -1,0 +1,3414 @@
+{
+  "% of total": {
+    "bg": "% от общото",
+    "es": "% del total"
+  },
+  "(read-only)": {
+    "bg": "(само за четене)",
+    "es": "(solo lectura)"
+  },
+  "8 to 72 characters": {
+    "bg": "от 8 до 72 знака",
+    "es": "de 8 a 72 caracteres"
+  },
+  "A budget sets a weekly or monthly spending limit for an expense category.": {
+    "bg": "Бюджетът определя седмичен или месечен лимит за разходите в дадена категория.",
+    "es": "Un presupuesto fija un límite semanal o mensual de gasto para una categoría de gastos."
+  },
+  "A category with this name already exists for this type.": {
+    "bg": "Категория с това име вече съществува за този тип.",
+    "es": "Ya existe una categoría con este nombre para este tipo."
+  },
+  "A goal is something you save towards, like a trip or a new car. Set a target and add money to it over time.": {
+    "bg": "Целта е нещо, за което спестявате, например пътуване или нова кола. Задайте сума и добавяйте пари към нея с времето.",
+    "es": "Una meta es algo para lo que ahorras, como un viaje o un coche nuevo. Fija un objetivo y añade dinero con el tiempo."
+  },
+  "A monthly budget for this category already exists": {
+    "bg": "Месечен бюджет за тази категория вече съществува",
+    "es": "Ya existe un presupuesto mensual para esta categoría"
+  },
+  "A tag with this name already exists.": {
+    "bg": "Таг с това име вече съществува.",
+    "es": "Ya existe una etiqueta con este nombre."
+  },
+  "A weekly budget for this category already exists": {
+    "bg": "Седмичен бюджет за тази категория вече съществува",
+    "es": "Ya existe un presupuesto semanal para esta categoría"
+  },
+  "Accept invitation from {name}": {
+    "bg": "Приеми поканата от {name}",
+    "es": "Aceptar la invitación de {name}"
+  },
+  "Accepting lets everyone in the household see all your accounts and transactions, including past ones. Each person can still change only their own data.": {
+    "bg": "Приемането позволява на всички в домакинството да виждат всичките ви сметки и транзакции, включително минали. Всеки може да променя само собствените си данни.",
+    "es": "Al aceptar, todos los miembros del hogar podrán ver todas tus cuentas y transacciones, incluidas las pasadas. Cada persona solo puede modificar sus propios datos."
+  },
+  "Account": {
+    "bg": "Сметка",
+    "es": "Cuenta"
+  },
+  "Account name": {
+    "bg": "Име на сметката",
+    "es": "Nombre de la cuenta"
+  },
+  "Accounts": {
+    "bg": "Сметки",
+    "es": "Cuentas"
+  },
+  "Accounts hold your money: cash, a bank account, a card. Add one to start recording transactions.": {
+    "bg": "Сметките съдържат парите ви: в брой, банкова сметка, карта. Добавете една, за да започнете да записвате транзакции.",
+    "es": "Las cuentas guardan tu dinero: efectivo, cuenta bancaria, tarjeta. Añade una para empezar a registrar transacciones."
+  },
+  "Action": {
+    "bg": "Действие",
+    "es": "Acción"
+  },
+  "Actions": {
+    "bg": "Действия",
+    "es": "Acciones"
+  },
+  "Active": {
+    "bg": "Активни",
+    "es": "Activas"
+  },
+  "Active sessions": {
+    "bg": "Активни сесии",
+    "es": "Sesiones activas"
+  },
+  "Activity": {
+    "bg": "Активност",
+    "es": "Actividad"
+  },
+  "Add a goal, or check the other filters.": {
+    "bg": "Добавете цел или проверете другите филтри.",
+    "es": "Añade una meta o revisa los otros filtros."
+  },
+  "Add a second account to move money between accounts.": {
+    "bg": "Добавете втора сметка, за да прехвърляте пари между сметки.",
+    "es": "Añade una segunda cuenta para mover dinero entre cuentas."
+  },
+  "Add account": {
+    "bg": "Добави сметка",
+    "es": "Añadir cuenta"
+  },
+  "Add an account": {
+    "bg": "Добавете сметка",
+    "es": "Añade una cuenta"
+  },
+  "Add budget": {
+    "bg": "Добави бюджет",
+    "es": "Añadir presupuesto"
+  },
+  "Add category": {
+    "bg": "Добави категория",
+    "es": "Añadir categoría"
+  },
+  "Add goal": {
+    "bg": "Добави цел",
+    "es": "Añadir meta"
+  },
+  "Add money": {
+    "bg": "Добави пари",
+    "es": "Añadir dinero"
+  },
+  "Add recurring": {
+    "bg": "Добави повтарящо се",
+    "es": "Añadir recurrente"
+  },
+  "Add recurring deposit": {
+    "bg": "Добави повтарящ се депозит",
+    "es": "Añadir depósito recurrente"
+  },
+  "Add recurring transaction": {
+    "bg": "Добави повтаряща се транзакция",
+    "es": "Añadir transacción recurrente"
+  },
+  "Add recurring transfer": {
+    "bg": "Добави повтарящ се превод",
+    "es": "Añadir transferencia recurrente"
+  },
+  "Add tag": {
+    "bg": "Добави таг",
+    "es": "Añadir etiqueta"
+  },
+  "Add transaction": {
+    "bg": "Добави транзакция",
+    "es": "Añadir transacción"
+  },
+  "Add transfer": {
+    "bg": "Добави превод",
+    "es": "Añadir transferencia"
+  },
+  "Add your first transaction": {
+    "bg": "Добавете първата си транзакция",
+    "es": "Añade tu primera transacción"
+  },
+  "Admin": {
+    "bg": "Админ",
+    "es": "Admin"
+  },
+  "Admin actions, newest first": {
+    "bg": "Действия на администратори, най-новите първи",
+    "es": "Acciones de administradores, las más recientes primero"
+  },
+  "Admin · Announcement": {
+    "bg": "Админ · Съобщение",
+    "es": "Admin · Anuncio"
+  },
+  "Admin · Audit log": {
+    "bg": "Админ · Дневник на действията",
+    "es": "Admin · Registro de acciones"
+  },
+  "Admin · Logins": {
+    "bg": "Админ · Вписвания",
+    "es": "Admin · Inicios de sesión"
+  },
+  "Admin · User": {
+    "bg": "Админ · Потребител",
+    "es": "Admin · Usuario"
+  },
+  "Admin · Users": {
+    "bg": "Админ · Потребители",
+    "es": "Admin · Usuarios"
+  },
+  "Admins": {
+    "bg": "Администратори",
+    "es": "Administradores"
+  },
+  "All": {
+    "bg": "Всички",
+    "es": "Todos"
+  },
+  "All accounts": {
+    "bg": "Всички сметки",
+    "es": "Todas las cuentas"
+  },
+  "All attempts": {
+    "bg": "Всички опити",
+    "es": "Todos los intentos"
+  },
+  "All budgets": {
+    "bg": "Всички бюджети",
+    "es": "Todos los presupuestos"
+  },
+  "All categories": {
+    "bg": "Всички категории",
+    "es": "Todas las categorías"
+  },
+  "All goals": {
+    "bg": "Всички цели",
+    "es": "Todas las metas"
+  },
+  "All logins": {
+    "bg": "Всички вписвания",
+    "es": "Todos los inicios de sesión"
+  },
+  "All recurring": {
+    "bg": "Всички повтарящи се",
+    "es": "Todas las recurrentes"
+  },
+  "All tags": {
+    "bg": "Всички тагове",
+    "es": "Todas las etiquetas"
+  },
+  "All types": {
+    "bg": "Всички типове",
+    "es": "Todos los tipos"
+  },
+  "All users": {
+    "bg": "Всички потребители",
+    "es": "Todos los usuarios"
+  },
+  "Already have an account?": {
+    "bg": "Вече имате акаунт?",
+    "es": "¿Ya tienes una cuenta?"
+  },
+  "Amount": {
+    "bg": "Сума",
+    "es": "Importe"
+  },
+  "Amount ({symbol})": {
+    "bg": "Сума ({symbol})",
+    "es": "Importe ({symbol})"
+  },
+  "Amount must be greater than 0": {
+    "bg": "Сумата трябва да е по-голяма от 0",
+    "es": "El importe debe ser mayor que 0"
+  },
+  "Amount per category in both periods and the difference": {
+    "bg": "Сума по категория в двата периода и разликата",
+    "es": "Importe por categoría en ambos periodos y la diferencia"
+  },
+  "An account with this email already exists.": {
+    "bg": "Вече съществува акаунт с този имейл.",
+    "es": "Ya existe una cuenta con este correo electrónico."
+  },
+  "Announcement": {
+    "bg": "Съобщение",
+    "es": "Anuncio"
+  },
+  "Announcements, newest first": {
+    "bg": "Съобщения, най-новите първи",
+    "es": "Anuncios, los más recientes primero"
+  },
+  "Anyone can create an account.": {
+    "bg": "Всеки може да създаде акаунт.",
+    "es": "Cualquiera puede crear una cuenta."
+  },
+  "Apply": {
+    "bg": "Приложи",
+    "es": "Aplicar"
+  },
+  "Apply filters": {
+    "bg": "Приложи филтрите",
+    "es": "Aplicar filtros"
+  },
+  "Archive": {
+    "bg": "Архивирай",
+    "es": "Archivar"
+  },
+  "Archived": {
+    "bg": "Архивирани",
+    "es": "Archivadas"
+  },
+  "Archived goals do not take new money. Restore it to add more.": {
+    "bg": "Архивираните цели не приемат нови пари. Възстановете я, за да добавите още.",
+    "es": "Las metas archivadas no admiten más dinero. Restáurala para añadir más."
+  },
+  "Audit log": {
+    "bg": "Дневник на действията",
+    "es": "Registro de acciones"
+  },
+  "Back to log in": {
+    "bg": "Обратно към вписването",
+    "es": "Volver a iniciar sesión"
+  },
+  "Balance": {
+    "bg": "Баланс",
+    "es": "Saldo"
+  },
+  "Balance at the end of each month": {
+    "bg": "Баланс в края на всеки месец",
+    "es": "Saldo al final de cada mes"
+  },
+  "Balance at the end of the period": {
+    "bg": "Баланс в края на периода",
+    "es": "Saldo al final del periodo"
+  },
+  "Balance before the period": {
+    "bg": "Баланс преди периода",
+    "es": "Saldo antes del periodo"
+  },
+  "Balance of each account at the end of each month. The same numbers are in the table below.": {
+    "bg": "Баланс на всяка сметка в края на всеки месец. Същите числа са в таблицата по-долу.",
+    "es": "Saldo de cada cuenta al final de cada mes. Los mismos números están en la tabla de abajo."
+  },
+  "Balance over time": {
+    "bg": "Баланс във времето",
+    "es": "Saldo a lo largo del tiempo"
+  },
+  "Balance summary": {
+    "bg": "Обобщение на баланса",
+    "es": "Resumen del saldo"
+  },
+  "Balance view": {
+    "bg": "Изглед на баланса",
+    "es": "Vista del saldo"
+  },
+  "Bank": {
+    "bg": "Банка",
+    "es": "Banco"
+  },
+  "Banner published.": {
+    "bg": "Съобщението е публикувано.",
+    "es": "Anuncio publicado."
+  },
+  "Banner removed.": {
+    "bg": "Съобщението е премахнато.",
+    "es": "Anuncio eliminado."
+  },
+  "Banners you publish are listed here.": {
+    "bg": "Публикуваните от вас съобщения се показват тук.",
+    "es": "Los anuncios que publiques aparecerán aquí."
+  },
+  "Block": {
+    "bg": "Блокирай",
+    "es": "Bloquear"
+  },
+  "Block this user?": {
+    "bg": "Да блокирате ли този потребител?",
+    "es": "¿Bloquear a este usuario?"
+  },
+  "Block user": {
+    "bg": "Блокирай потребителя",
+    "es": "Bloquear usuario"
+  },
+  "Blocked": {
+    "bg": "Блокиран",
+    "es": "Bloqueado"
+  },
+  "Blocked since": {
+    "bg": "Блокиран от",
+    "es": "Bloqueado desde"
+  },
+  "Both periods are the same, so there is nothing to compare.": {
+    "bg": "Двата периода са еднакви, затова няма какво да се сравнява.",
+    "es": "Ambos periodos son el mismo, así que no hay nada que comparar."
+  },
+  "Browser": {
+    "bg": "Браузър",
+    "es": "Navegador"
+  },
+  "Budgets": {
+    "bg": "Бюджети",
+    "es": "Presupuestos"
+  },
+  "Budgets need an expense category. Create one under Profile → Categories first.": {
+    "bg": "Бюджетите изискват категория за разходи. Първо създайте такава в Профил → Категории.",
+    "es": "Los presupuestos necesitan una categoría de gastos. Crea una primero en Perfil → Categorías."
+  },
+  "Budgets work with expense categories only": {
+    "bg": "Бюджетите работят само с категории за разходи",
+    "es": "Los presupuestos solo funcionan con categorías de gastos"
+  },
+  "By": {
+    "bg": "От",
+    "es": "Por"
+  },
+  "By account": {
+    "bg": "По сметка",
+    "es": "Por cuenta"
+  },
+  "Cancel": {
+    "bg": "Отказ",
+    "es": "Cancelar"
+  },
+  "Cancel invitation to {email}": {
+    "bg": "Отмени поканата до {email}",
+    "es": "Cancelar la invitación a {email}"
+  },
+  "Card": {
+    "bg": "Карта",
+    "es": "Tarjeta"
+  },
+  "Cash": {
+    "bg": "В брой",
+    "es": "Efectivo"
+  },
+  "Cash flow": {
+    "bg": "Парични потоци",
+    "es": "Flujo de caja"
+  },
+  "Categories": {
+    "bg": "Категории",
+    "es": "Categorías"
+  },
+  "Categories ranked by amount, with share of total and change": {
+    "bg": "Категории, подредени по сума, с дял от общото и промяна",
+    "es": "Categorías ordenadas por importe, con su parte del total y el cambio"
+  },
+  "Category": {
+    "bg": "Категория",
+    "es": "Categoría"
+  },
+  "Category name": {
+    "bg": "Име на категорията",
+    "es": "Nombre de la categoría"
+  },
+  "Change": {
+    "bg": "Промяна",
+    "es": "Cambio"
+  },
+  "Change compares with {period}.": {
+    "bg": "Промяната се сравнява с {period}.",
+    "es": "El cambio se compara con {period}."
+  },
+  "Change over the period": {
+    "bg": "Промяна през периода",
+    "es": "Cambio durante el periodo"
+  },
+  "Change password": {
+    "bg": "Смяна на паролата",
+    "es": "Cambiar contraseña"
+  },
+  "Changed currency or timezone": {
+    "bg": "Променена валута или часова зона",
+    "es": "Cambió la moneda o la zona horaria"
+  },
+  "Verified email": {
+    "bg": "Потвърден имейл",
+    "es": "Verificó el correo"
+  },
+  "Verify this email?": {
+    "bg": "Да се потвърди ли този имейл?",
+    "es": "¿Verificar este correo?"
+  },
+  "Mark the email as verified without the user clicking the link. Use this only when you know the address belongs to them.": {
+    "bg": "Маркира имейла като потвърден, без потребителят да отваря връзката. Използвайте го само ако знаете, че адресът е негов.",
+    "es": "Marca el correo como verificado sin que la persona abra el enlace. Úsalo solo si sabes que la dirección es suya."
+  },
+  "Changed role": {
+    "bg": "Променена роля",
+    "es": "Cambió el rol"
+  },
+  "Changes apply to future entries only. Entries already created stay as they are.": {
+    "bg": "Промените важат само за бъдещи записи. Вече създадените записи остават непроменени.",
+    "es": "Los cambios solo se aplican a los registros futuros. Los ya creados se quedan como están."
+  },
+  "Changing your password signs you out of all other devices.": {
+    "bg": "Смяната на паролата ви отписва от всички други устройства.",
+    "es": "Cambiar tu contraseña cierra la sesión en todos los demás dispositivos."
+  },
+  "Chart range": {
+    "bg": "Период на графиката",
+    "es": "Rango del gráfico"
+  },
+  "Check your email. We sent a verification link to": {
+    "bg": "Проверете имейла си. Изпратихме връзка за потвърждение до",
+    "es": "Revisa tu correo. Enviamos un enlace de verificación a"
+  },
+  "Choose a color": {
+    "bg": "Изберете цвят",
+    "es": "Elige un color"
+  },
+  "Choose a currency": {
+    "bg": "Изберете валута",
+    "es": "Elige una moneda"
+  },
+  "Choose a goal": {
+    "bg": "Изберете цел",
+    "es": "Elige una meta"
+  },
+  "Choose a level": {
+    "bg": "Изберете ниво",
+    "es": "Elige un nivel"
+  },
+  "Choose a password different from the current one": {
+    "bg": "Изберете парола, различна от текущата",
+    "es": "Elige una contraseña distinta de la actual"
+  },
+  "Choose a role": {
+    "bg": "Изберете роля",
+    "es": "Elige un rol"
+  },
+  "Choose a theme": {
+    "bg": "Изберете тема",
+    "es": "Elige un tema"
+  },
+  "Choose a timezone": {
+    "bg": "Изберете часова зона",
+    "es": "Elige una zona horaria"
+  },
+  "Choose a valid timezone": {
+    "bg": "Изберете валидна часова зона",
+    "es": "Elige una zona horaria válida"
+  },
+  "Choose active or paused": {
+    "bg": "Изберете активно или на пауза",
+    "es": "Elige activa o en pausa"
+  },
+  "Choose an account": {
+    "bg": "Изберете сметка",
+    "es": "Elige una cuenta"
+  },
+  "Choose an account type": {
+    "bg": "Изберете тип сметка",
+    "es": "Elige un tipo de cuenta"
+  },
+  "Choose an expense category": {
+    "bg": "Изберете категория за разходи",
+    "es": "Elige una categoría de gastos"
+  },
+  "Choose an expense category for an expense rule": {
+    "bg": "Изберете категория за разходи за правило за разход",
+    "es": "Elige una categoría de gastos para una regla de gasto"
+  },
+  "Choose an expense category for an expense transaction": {
+    "bg": "Изберете категория за разходи за транзакция за разход",
+    "es": "Elige una categoría de gastos para una transacción de gasto"
+  },
+  "Choose an icon": {
+    "bg": "Изберете икона",
+    "es": "Elige un icono"
+  },
+  "Choose an income category for an income rule": {
+    "bg": "Изберете категория за приходи за правило за приход",
+    "es": "Elige una categoría de ingresos para una regla de ingreso"
+  },
+  "Choose an income category for an income transaction": {
+    "bg": "Изберете категория за приходи за транзакция за приход",
+    "es": "Elige una categoría de ingresos para una transacción de ingreso"
+  },
+  "Choose deposit or withdrawal": {
+    "bg": "Изберете депозит или теглене",
+    "es": "Elige depósito o retiro"
+  },
+  "Choose from your own tags": {
+    "bg": "Изберете от собствените си тагове",
+    "es": "Elige entre tus propias etiquetas"
+  },
+  "Choose how often it repeats": {
+    "bg": "Изберете колко често се повтаря",
+    "es": "Elige con qué frecuencia se repite"
+  },
+  "Choose income or expense": {
+    "bg": "Изберете приход или разход",
+    "es": "Elige ingreso o gasto"
+  },
+  "Choose income, expense, transfer or goal": {
+    "bg": "Изберете приход, разход, превод или цел",
+    "es": "Elige ingreso, gasto, transferencia o meta"
+  },
+  "Choose on or off": {
+    "bg": "Изберете включено или изключено",
+    "es": "Elige activado o desactivado"
+  },
+  "Choose one of your accounts": {
+    "bg": "Изберете една от вашите сметки",
+    "es": "Elige una de tus cuentas"
+  },
+  "Choose one of your accounts or a household member's account": {
+    "bg": "Изберете една от вашите сметки или сметка на член от домакинството",
+    "es": "Elige una de tus cuentas o la cuenta de un miembro del hogar"
+  },
+  "Choose one of your categories": {
+    "bg": "Изберете една от вашите категории",
+    "es": "Elige una de tus categorías"
+  },
+  "Choose one of your goals or a goal shared with you": {
+    "bg": "Изберете една от вашите цели или цел, споделена с вас",
+    "es": "Elige una de tus metas o una meta compartida contigo"
+  },
+  "Choose the account to move money from": {
+    "bg": "Изберете сметката, от която да се преместят парите",
+    "es": "Elige la cuenta desde la que mover el dinero"
+  },
+  "Choose the account to move money to": {
+    "bg": "Изберете сметката, към която да се преместят парите",
+    "es": "Elige la cuenta a la que mover el dinero"
+  },
+  "Choose two different accounts": {
+    "bg": "Изберете две различни сметки",
+    "es": "Elige dos cuentas distintas"
+  },
+  "Choose two different periods": {
+    "bg": "Изберете два различни периода",
+    "es": "Elige dos periodos distintos"
+  },
+  "Choose weekly or monthly": {
+    "bg": "Изберете седмично или месечно",
+    "es": "Elige semanal o mensual"
+  },
+  "Clear": {
+    "bg": "Изчисти",
+    "es": "Borrar"
+  },
+  "Clear filters": {
+    "bg": "Изчисти филтрите",
+    "es": "Borrar filtros"
+  },
+  "Cleared announcement": {
+    "bg": "Изчистено съобщение",
+    "es": "Borró el anuncio"
+  },
+  "Close": {
+    "bg": "Затвори",
+    "es": "Cerrar"
+  },
+  "Close menu": {
+    "bg": "Затвори менюто",
+    "es": "Cerrar menú"
+  },
+  "Color": {
+    "bg": "Цвят",
+    "es": "Color"
+  },
+  "Compare": {
+    "bg": "Сравни",
+    "es": "Comparar"
+  },
+  "Compared with": {
+    "bg": "Сравнено с",
+    "es": "Comparado con"
+  },
+  "Comparison": {
+    "bg": "Сравнение",
+    "es": "Comparación"
+  },
+  "Completed": {
+    "bg": "Постигнати",
+    "es": "Completadas"
+  },
+  "Confirm new password": {
+    "bg": "Потвърдете новата парола",
+    "es": "Confirma la nueva contraseña"
+  },
+  "Confirm password": {
+    "bg": "Потвърдете паролата",
+    "es": "Confirma la contraseña"
+  },
+  "Confirm your email address to finish setting up your WalletHistory account.": {
+    "bg": "Потвърдете имейл адреса си, за да завършите настройването на акаунта си в WalletHistory.",
+    "es": "Confirma tu correo electrónico para terminar de configurar tu cuenta de WalletHistory."
+  },
+  "Contributions": {
+    "bg": "Вноски",
+    "es": "Aportaciones"
+  },
+  "Cookie notice": {
+    "bg": "Съобщение за бисквитки",
+    "es": "Aviso de cookies"
+  },
+  "Create account": {
+    "bg": "Създай акаунт",
+    "es": "Crear cuenta"
+  },
+  "Create an account": {
+    "bg": "Създайте акаунт",
+    "es": "Crea una cuenta"
+  },
+  "Create an account first to set up recurring transactions.": {
+    "bg": "Първо създайте сметка, за да настроите повтарящи се транзакции.",
+    "es": "Crea primero una cuenta para configurar transacciones recurrentes."
+  },
+  "Create an account first under": {
+    "bg": "Първо създайте сметка в",
+    "es": "Crea primero una cuenta en"
+  },
+  "Create an account under": {
+    "bg": "Създайте сметка в",
+    "es": "Crea una cuenta en"
+  },
+  "Create an expense category under": {
+    "bg": "Създайте категория за разходи в",
+    "es": "Crea una categoría de gastos en"
+  },
+  "Create your account": {
+    "bg": "Създайте акаунта си",
+    "es": "Crea tu cuenta"
+  },
+  "Create your first goal": {
+    "bg": "Създайте първата си цел",
+    "es": "Crea tu primera meta"
+  },
+  "Creating account…": {
+    "bg": "Създаване на акаунт…",
+    "es": "Creando cuenta…"
+  },
+  "Currency": {
+    "bg": "Валута",
+    "es": "Moneda"
+  },
+  "Currency and timezone": {
+    "bg": "Валута и часова зона",
+    "es": "Moneda y zona horaria"
+  },
+  "Currency and timezone only change how amounts and dates are shown. Existing amounts are not converted.": {
+    "bg": "Валутата и часовата зона променят само как се показват сумите и датите. Съществуващите суми не се преобразуват.",
+    "es": "La moneda y la zona horaria solo cambian cómo se muestran los importes y las fechas. Los importes existentes no se convierten."
+  },
+  "Current password": {
+    "bg": "Текуща парола",
+    "es": "Contraseña actual"
+  },
+  "Danger zone": {
+    "bg": "Опасна зона",
+    "es": "Zona de peligro"
+  },
+  "Dark": {
+    "bg": "Тъмна",
+    "es": "Oscuro"
+  },
+  "Dashboard": {
+    "bg": "Табло",
+    "es": "Panel"
+  },
+  "Dashboard view": {
+    "bg": "Изглед на таблото",
+    "es": "Vista del panel"
+  },
+  "Date": {
+    "bg": "Дата",
+    "es": "Fecha"
+  },
+  "Day(s)": {
+    "bg": "Ден/дни",
+    "es": "Día(s)"
+  },
+  "Deadline": {
+    "bg": "Краен срок",
+    "es": "Fecha límite"
+  },
+  "Deadline (optional)": {
+    "bg": "Краен срок (по избор)",
+    "es": "Fecha límite (opcional)"
+  },
+  "Deadline must be today or later": {
+    "bg": "Крайният срок трябва да е днес или по-късно",
+    "es": "La fecha límite debe ser hoy o posterior"
+  },
+  "Decline invitation from {name}": {
+    "bg": "Откажи поканата от {name}",
+    "es": "Rechazar la invitación de {name}"
+  },
+  "Delete": {
+    "bg": "Изтрий",
+    "es": "Eliminar"
+  },
+  "Delete \"{name}\"? A category used by transactions cannot be deleted. Budgets that use it are deleted with it.": {
+    "bg": "Да изтриете ли \"{name}\"? Категория, използвана в транзакции, не може да бъде изтрита. Бюджетите, които я използват, се изтриват заедно с нея.",
+    "es": "¿Eliminar \"{name}\"? Una categoría usada en transacciones no se puede eliminar. Los presupuestos que la usan se eliminan con ella."
+  },
+  "Delete \"{name}\"? An account that has transactions cannot be deleted.": {
+    "bg": "Да изтриете ли \"{name}\"? Сметка с транзакции не може да бъде изтрита.",
+    "es": "¿Eliminar \"{name}\"? Una cuenta con transacciones no se puede eliminar."
+  },
+  "Delete \"{name}\"? It is removed from any transactions that use it. The transactions are kept.": {
+    "bg": "Да изтриете ли \"{name}\"? Премахва се от всички транзакции, които я използват. Транзакциите се запазват.",
+    "es": "¿Eliminar \"{name}\"? Se quita de las transacciones que la usan. Las transacciones se conservan."
+  },
+  "Delete account": {
+    "bg": "Изтрий акаунта",
+    "es": "Eliminar cuenta"
+  },
+  "Delete budget": {
+    "bg": "Изтрий бюджета",
+    "es": "Eliminar presupuesto"
+  },
+  "Delete category": {
+    "bg": "Изтрий категорията",
+    "es": "Eliminar categoría"
+  },
+  "Delete contribution": {
+    "bg": "Изтрий вноската",
+    "es": "Eliminar aportación"
+  },
+  "Delete goal": {
+    "bg": "Изтрий целта",
+    "es": "Eliminar meta"
+  },
+  "Delete goal permanently": {
+    "bg": "Изтрий целта завинаги",
+    "es": "Eliminar meta definitivamente"
+  },
+  "Delete my account": {
+    "bg": "Изтрий моя акаунт",
+    "es": "Eliminar mi cuenta"
+  },
+  "Delete permanently": {
+    "bg": "Изтрий завинаги",
+    "es": "Eliminar definitivamente"
+  },
+  "Delete recurring": {
+    "bg": "Изтрий повтарящото се",
+    "es": "Eliminar recurrente"
+  },
+  "Delete recurring transaction": {
+    "bg": "Изтрий повтарящата се транзакция",
+    "es": "Eliminar transacción recurrente"
+  },
+  "Delete tag": {
+    "bg": "Изтрий тага",
+    "es": "Eliminar etiqueta"
+  },
+  "Delete the {name} transaction? This cannot be undone.": {
+    "bg": "Да изтриете ли {name} (транзакция)? Това не може да се отмени.",
+    "es": "¿Eliminar la transacción {name}? Esto no se puede deshacer."
+  },
+  "Delete the {name}? Entries it already created stay in your history. This cannot be undone.": {
+    "bg": "Да изтриете ли {name}? Вече създадените от него записи остават в историята ви. Това не може да се отмени.",
+    "es": "¿Eliminar {name}? Los registros que ya creó se quedan en tu historial. Esto no se puede deshacer."
+  },
+  "Delete the {name}? This cannot be undone.": {
+    "bg": "Да изтриете ли {name}? Това не може да се отмени.",
+    "es": "¿Eliminar {name}? Esto no se puede deshacer."
+  },
+  "Delete the {name}? Your transactions are not affected.": {
+    "bg": "Да изтриете ли {name}? Транзакциите ви не се променят.",
+    "es": "¿Eliminar {name}? Tus transacciones no se ven afectadas."
+  },
+  "Delete this deposit of {amount}? {effect}": {
+    "bg": "Да изтриете ли този депозит от {amount}? {effect}",
+    "es": "¿Eliminar este depósito de {amount}? {effect}"
+  },
+  "Delete this user?": {
+    "bg": "Да изтриете ли този потребител?",
+    "es": "¿Eliminar a este usuario?"
+  },
+  "Delete this withdrawal of {amount}? {effect}": {
+    "bg": "Да изтриете ли това теглене от {amount}? {effect}",
+    "es": "¿Eliminar este retiro de {amount}? {effect}"
+  },
+  "Delete transaction": {
+    "bg": "Изтрий транзакцията",
+    "es": "Eliminar transacción"
+  },
+  "Delete transfer": {
+    "bg": "Изтрий превода",
+    "es": "Eliminar transferencia"
+  },
+  "Delete user": {
+    "bg": "Изтрий потребителя",
+    "es": "Eliminar usuario"
+  },
+  "Delete {name}": {
+    "bg": "Изтрий {name}",
+    "es": "Eliminar {name}"
+  },
+  "Delete {name} permanently? Its history is removed and this cannot be undone. No account balance changes.": {
+    "bg": "Да изтриете ли {name} завинаги? Историята ѝ се премахва и това не може да се отмени. Балансите на сметките не се променят.",
+    "es": "¿Eliminar {name} definitivamente? Su historial se elimina y no se puede deshacer. Ningún saldo de cuenta cambia."
+  },
+  "Delete {name}? It is removed from your goals. Its history is kept.": {
+    "bg": "Да изтриете ли {name}? Премахва се от целите ви. Историята ѝ се запазва.",
+    "es": "¿Eliminar {name}? Se quita de tus metas. Su historial se conserva."
+  },
+  "Delete {name}? This cannot be undone.": {
+    "bg": "Да изтриете ли {name}? Това не може да се отмени.",
+    "es": "¿Eliminar {name}? Esto no se puede deshacer."
+  },
+  "Deleted": {
+    "bg": "Изтрити",
+    "es": "Eliminadas"
+  },
+  "Deleted admin": {
+    "bg": "Изтрит администратор",
+    "es": "Administrador eliminado"
+  },
+  "Deleted goals": {
+    "bg": "Изтрити цели",
+    "es": "Metas eliminadas"
+  },
+  "Deleted goals are hidden everywhere else. Restore one to use it again. A goal can be removed permanently once none of its money movements is on an existing account.": {
+    "bg": "Изтритите цели са скрити навсякъде другаде. Възстановете една, за да я използвате отново. Целта може да бъде премахната завинаги, когато нито едно от движенията ѝ с пари не е по съществуваща сметка.",
+    "es": "Las metas eliminadas están ocultas en el resto de la aplicación. Restaura una para volver a usarla. Una meta se puede eliminar definitivamente cuando ninguno de sus movimientos de dinero está en una cuenta existente."
+  },
+  "Deleted user": {
+    "bg": "Изтрит потребител",
+    "es": "Usuario eliminado"
+  },
+  "Deleted {date}": {
+    "bg": "Изтрита на {date}",
+    "es": "Eliminada el {date}"
+  },
+  "Deleting your account permanently removes all of your data.": {
+    "bg": "Изтриването на акаунта ви премахва завинаги всичките ви данни.",
+    "es": "Eliminar tu cuenta borra todos tus datos de forma permanente."
+  },
+  "Deleting…": {
+    "bg": "Изтриване…",
+    "es": "Eliminando…"
+  },
+  "Deposit": {
+    "bg": "Депозит",
+    "es": "Depósito"
+  },
+  "Details": {
+    "bg": "Подробности",
+    "es": "Detalles"
+  },
+  "Difference": {
+    "bg": "Разлика",
+    "es": "Diferencia"
+  },
+  "Difference per category": {
+    "bg": "Разлика по категории",
+    "es": "Diferencia por categoría"
+  },
+  "Dismiss announcement": {
+    "bg": "Скрий съобщението",
+    "es": "Descartar anuncio"
+  },
+  "Download export": {
+    "bg": "Изтегли експорта",
+    "es": "Descargar exportación"
+  },
+  "Due {date}": {
+    "bg": "Краен срок {date}",
+    "es": "Vence el {date}"
+  },
+  "Edit": {
+    "bg": "Редактирай",
+    "es": "Editar"
+  },
+  "Edit account": {
+    "bg": "Редактирай сметката",
+    "es": "Editar cuenta"
+  },
+  "Edit budget": {
+    "bg": "Редактирай бюджета",
+    "es": "Editar presupuesto"
+  },
+  "Edit category": {
+    "bg": "Редактирай категорията",
+    "es": "Editar categoría"
+  },
+  "Edit contribution": {
+    "bg": "Редактирай вноската",
+    "es": "Editar aportación"
+  },
+  "Edit goal": {
+    "bg": "Редактирай целта",
+    "es": "Editar meta"
+  },
+  "Edit recurring transaction": {
+    "bg": "Редактирай повтарящата се транзакция",
+    "es": "Editar transacción recurrente"
+  },
+  "Edit tag": {
+    "bg": "Редактирай тага",
+    "es": "Editar etiqueta"
+  },
+  "Edit transaction": {
+    "bg": "Редактирай транзакцията",
+    "es": "Editar transacción"
+  },
+  "Edit transfer": {
+    "bg": "Редактирай превода",
+    "es": "Editar transferencia"
+  },
+  "Edit {name}": {
+    "bg": "Редактирай {name}",
+    "es": "Editar {name}"
+  },
+  "Email": {
+    "bg": "Имейл",
+    "es": "Correo electrónico"
+  },
+  "Email is too long": {
+    "bg": "Имейлът е твърде дълъг",
+    "es": "El correo electrónico es demasiado largo"
+  },
+  "Email not verified": {
+    "bg": "Имейлът не е потвърден",
+    "es": "Correo electrónico sin verificar"
+  },
+  "Email verified. You can log in now.": {
+    "bg": "Имейлът е потвърден. Вече можете да влезете.",
+    "es": "Correo electrónico verificado. Ya puedes iniciar sesión."
+  },
+  "End date must be on or after the start date": {
+    "bg": "Крайната дата трябва да е същата или след началната",
+    "es": "La fecha de fin debe ser igual o posterior a la de inicio"
+  },
+  "Ended": {
+    "bg": "Приключили",
+    "es": "Finalizada"
+  },
+  "Ends on (optional)": {
+    "bg": "Свършва на (по избор)",
+    "es": "Termina el (opcional)"
+  },
+  "Enter a message": {
+    "bg": "Въведете съобщение",
+    "es": "Escribe un mensaje"
+  },
+  "Enter a valid date": {
+    "bg": "Въведете валидна дата",
+    "es": "Introduce una fecha válida"
+  },
+  "Enter a valid email address": {
+    "bg": "Въведете валиден имейл адрес",
+    "es": "Introduce un correo electrónico válido"
+  },
+  "Enter a whole number": {
+    "bg": "Въведете цяло число",
+    "es": "Introduce un número entero"
+  },
+  "Enter an amount like 100 or 100.50": {
+    "bg": "Въведете сума като 100 или 100.50",
+    "es": "Introduce un importe como 100 o 100.50"
+  },
+  "Enter your current password": {
+    "bg": "Въведете текущата си парола",
+    "es": "Introduce tu contraseña actual"
+  },
+  "Enter your email and we will send you a reset link.": {
+    "bg": "Въведете имейла си и ще ви изпратим връзка за нулиране.",
+    "es": "Introduce tu correo electrónico y te enviaremos un enlace para restablecerla."
+  },
+  "Enter your password": {
+    "bg": "Въведете паролата си",
+    "es": "Introduce tu contraseña"
+  },
+  "Enter your password to confirm": {
+    "bg": "Въведете паролата си, за да потвърдите",
+    "es": "Introduce tu contraseña para confirmar"
+  },
+  "Entries are created automatically when they are due.": {
+    "bg": "Записите се създават автоматично, когато им дойде времето.",
+    "es": "Los registros se crean automáticamente cuando les toca."
+  },
+  "Every": {
+    "bg": "На всеки",
+    "es": "Cada"
+  },
+  "Every day": {
+    "bg": "Всеки ден",
+    "es": "Cada día"
+  },
+  "Every device this user is signed in on is signed out. They can log in again.": {
+    "bg": "Всички устройства, на които този потребител е вписан, се отписват. Той може да влезе отново.",
+    "es": "Se cierra la sesión en todos los dispositivos de este usuario. Puede volver a iniciar sesión."
+  },
+  "Every month": {
+    "bg": "Всеки месец",
+    "es": "Cada mes"
+  },
+  "Every week": {
+    "bg": "Всяка седмица",
+    "es": "Cada semana"
+  },
+  "Every year": {
+    "bg": "Всяка година",
+    "es": "Cada año"
+  },
+  "Everyone": {
+    "bg": "Всички",
+    "es": "Todos"
+  },
+  "Everyone in your household sees this goal and can add money to it from their own accounts. Only you can edit it.": {
+    "bg": "Всички в домакинството ви виждат тази цел и могат да добавят пари към нея от собствените си сметки. Само вие можете да я редактирате.",
+    "es": "Todos en tu hogar ven esta meta y pueden añadirle dinero desde sus propias cuentas. Solo tú puedes editarla."
+  },
+  "Expense": {
+    "bg": "Разход",
+    "es": "Gasto"
+  },
+  "Expense categories": {
+    "bg": "Категории за разходи",
+    "es": "Categorías de gastos"
+  },
+  "Expense categories group your spending and are used by budgets.": {
+    "bg": "Категориите за разходи групират харчовете ви и се използват от бюджетите.",
+    "es": "Las categorías de gastos agrupan tus gastos y las usan los presupuestos."
+  },
+  "Expense this month": {
+    "bg": "Разходи този месец",
+    "es": "Gastos este mes"
+  },
+  "Expenses": {
+    "bg": "Разходи",
+    "es": "Gastos"
+  },
+  "Expenses in each of the last 6 months": {
+    "bg": "Разходи във всеки от последните 6 месеца",
+    "es": "Gastos en cada uno de los últimos 6 meses"
+  },
+  "Export CSV": {
+    "bg": "Експорт CSV",
+    "es": "Exportar CSV"
+  },
+  "Export data": {
+    "bg": "Експорт на данни",
+    "es": "Exportar datos"
+  },
+  "Export data is the only place an admin can see financial data. Every export is recorded.": {
+    "bg": "Експортът е единственото място, където администратор може да вижда финансови данни. Всеки експорт се записва.",
+    "es": "La exportación es el único lugar donde un administrador puede ver datos financieros. Cada exportación queda registrada."
+  },
+  "Export file for": {
+    "bg": "Експортен файл за",
+    "es": "Archivo de exportación de"
+  },
+  "Export this user's data?": {
+    "bg": "Да експортирате ли данните на този потребител?",
+    "es": "¿Exportar los datos de este usuario?"
+  },
+  "Exported user data": {
+    "bg": "Експортирани данни на потребител",
+    "es": "Exportó los datos de un usuario"
+  },
+  "Failed": {
+    "bg": "Неуспешно",
+    "es": "Fallido"
+  },
+  "Failed logins": {
+    "bg": "Неуспешни вписвания",
+    "es": "Inicios de sesión fallidos"
+  },
+  "Failed logins, 24 hours": {
+    "bg": "Неуспешни вписвания, 24 часа",
+    "es": "Inicios de sesión fallidos, 24 horas"
+  },
+  "Filter logins": {
+    "bg": "Филтрирай вписванията",
+    "es": "Filtrar inicios de sesión"
+  },
+  "Filter transactions": {
+    "bg": "Филтрирай транзакциите",
+    "es": "Filtrar transacciones"
+  },
+  "Filter users": {
+    "bg": "Филтрирай потребителите",
+    "es": "Filtrar usuarios"
+  },
+  "Filters": {
+    "bg": "Филтри",
+    "es": "Filtros"
+  },
+  "First entry on": {
+    "bg": "Първи запис на",
+    "es": "Primer registro el"
+  },
+  "Forgot password": {
+    "bg": "Забравена парола",
+    "es": "Contraseña olvidada"
+  },
+  "Forgot your password?": {
+    "bg": "Забравена парола?",
+    "es": "¿Olvidaste tu contraseña?"
+  },
+  "Frequency": {
+    "bg": "Честота",
+    "es": "Frecuencia"
+  },
+  "From": {
+    "bg": "От",
+    "es": "Desde"
+  },
+  "From account": {
+    "bg": "От сметка",
+    "es": "Desde la cuenta"
+  },
+  "Full report": {
+    "bg": "Пълен отчет",
+    "es": "Informe completo"
+  },
+  "Go to WalletHistory": {
+    "bg": "Към WalletHistory",
+    "es": "Ir a WalletHistory"
+  },
+  "Go to log in": {
+    "bg": "Към вписването",
+    "es": "Ir a iniciar sesión"
+  },
+  "Goal": {
+    "bg": "Цел",
+    "es": "Meta"
+  },
+  "Goal name": {
+    "bg": "Име на целта",
+    "es": "Nombre de la meta"
+  },
+  "Goal status": {
+    "bg": "Статус на целта",
+    "es": "Estado de la meta"
+  },
+  "Goals": {
+    "bg": "Цели",
+    "es": "Metas"
+  },
+  "Goals summary": {
+    "bg": "Обобщение на целите",
+    "es": "Resumen de metas"
+  },
+  "Good afternoon": {
+    "bg": "Добър ден",
+    "es": "Buenas tardes"
+  },
+  "Good afternoon, {name}": {
+    "bg": "Добър ден, {name}",
+    "es": "Buenas tardes, {name}"
+  },
+  "Good evening": {
+    "bg": "Добър вечер",
+    "es": "Buenas noches"
+  },
+  "Good evening, {name}": {
+    "bg": "Добър вечер, {name}",
+    "es": "Buenas noches, {name}"
+  },
+  "Good morning": {
+    "bg": "Добро утро",
+    "es": "Buenos días"
+  },
+  "Good morning, {name}": {
+    "bg": "Добро утро, {name}",
+    "es": "Buenos días, {name}"
+  },
+  "Happy tracking!": {
+    "bg": "Приятно проследяване!",
+    "es": "¡Feliz seguimiento!"
+  },
+  "Household": {
+    "bg": "Домакинство",
+    "es": "Hogar"
+  },
+  "Household accounts": {
+    "bg": "Сметки на домакинството",
+    "es": "Cuentas del hogar"
+  },
+  "Household budgets": {
+    "bg": "Бюджети на домакинството",
+    "es": "Presupuestos del hogar"
+  },
+  "IP": {
+    "bg": "IP",
+    "es": "IP"
+  },
+  "Icon": {
+    "bg": "Икона",
+    "es": "Icono"
+  },
+  "If that account needs verification, we sent a new link.": {
+    "bg": "Ако този акаунт има нужда от потвърждение, изпратихме нова връзка.",
+    "es": "Si esa cuenta necesita verificación, enviamos un enlace nuevo."
+  },
+  "If that email exists, we sent a link.": {
+    "bg": "Ако този имейл съществува, изпратихме връзка.",
+    "es": "Si ese correo electrónico existe, enviamos un enlace."
+  },
+  "If you accept, everyone in the household can see each other's accounts and transactions, including past ones. Each person can still change only their own data.": {
+    "bg": "Ако приемете, всички в домакинството ще могат да виждат сметките и транзакциите си един на друг, включително минали. Всеки може да променя само собствените си данни.",
+    "es": "Si aceptas, todos los miembros del hogar podrán ver las cuentas y transacciones de los demás, incluidas las pasadas. Cada persona solo puede modificar sus propios datos."
+  },
+  "Income": {
+    "bg": "Приход",
+    "es": "Ingreso"
+  },
+  "Income and expenses per month, with the net as a line. The same numbers are in the table below.": {
+    "bg": "Приходи и разходи по месеци, с нетния резултат като линия. Същите числа са в таблицата по-долу.",
+    "es": "Ingresos y gastos por mes, con el neto como línea. Los mismos números están en la tabla de abajo."
+  },
+  "Income categories": {
+    "bg": "Категории за приходи",
+    "es": "Categorías de ingresos"
+  },
+  "Income categories group the money you receive.": {
+    "bg": "Категориите за приходи групират парите, които получавате.",
+    "es": "Las categorías de ingresos agrupan el dinero que recibes."
+  },
+  "Income in each of the last 6 months": {
+    "bg": "Приходи във всеки от последните 6 месеца",
+    "es": "Ingresos en cada uno de los últimos 6 meses"
+  },
+  "Income this month": {
+    "bg": "Приходи този месец",
+    "es": "Ingresos este mes"
+  },
+  "Income vs. expenses": {
+    "bg": "Приходи срещу разходи",
+    "es": "Ingresos frente a gastos"
+  },
+  "Income, expenses, net and savings rate per month": {
+    "bg": "Приходи, разходи, нетно и норма на спестяване по месеци",
+    "es": "Ingresos, gastos, neto y tasa de ahorro por mes"
+  },
+  "Information": {
+    "bg": "Информация",
+    "es": "Información"
+  },
+  "Initial balance ({symbol})": {
+    "bg": "Начално салдо ({symbol})",
+    "es": "Saldo inicial ({symbol})"
+  },
+  "Invalid email or password": {
+    "bg": "Невалиден имейл или парола",
+    "es": "Correo electrónico o contraseña no válidos"
+  },
+  "Invalid id": {
+    "bg": "Невалиден идентификатор",
+    "es": "Identificador no válido"
+  },
+  "Invitation sent. If that email belongs to a WalletHistory account, the person can accept it from their profile.": {
+    "bg": "Поканата е изпратена. Ако този имейл принадлежи на акаунт в WalletHistory, човекът може да я приеме от профила си.",
+    "es": "Invitación enviada. Si ese correo electrónico pertenece a una cuenta de WalletHistory, la persona puede aceptarla desde su perfil."
+  },
+  "Invitations for you": {
+    "bg": "Покани за вас",
+    "es": "Invitaciones para ti"
+  },
+  "Invite by email": {
+    "bg": "Покани по имейл",
+    "es": "Invitar por correo electrónico"
+  },
+  "Invite someone": {
+    "bg": "Поканете някого",
+    "es": "Invita a alguien"
+  },
+  "Join a household to share goals": {
+    "bg": "Присъединете се към домакинство, за да споделяте цели",
+    "es": "Únete a un hogar para compartir metas"
+  },
+  "Join a household under Profile → Household to share goals.": {
+    "bg": "Присъединете се към домакинство в Профил → Домакинство, за да споделяте цели.",
+    "es": "Únete a un hogar en Perfil → Hogar para compartir metas."
+  },
+  "Language": {
+    "bg": "Език",
+    "es": "Idioma"
+  },
+  "Last 12 months": {
+    "bg": "Последните 12 месеца",
+    "es": "Últimos 12 meses"
+  },
+  "Last 3 months": {
+    "bg": "Последните 3 месеца",
+    "es": "Últimos 3 meses"
+  },
+  "Last 6 months": {
+    "bg": "Последните 6 месеца",
+    "es": "Últimos 6 meses"
+  },
+  "Last active": {
+    "bg": "Последна активност",
+    "es": "Última actividad"
+  },
+  "Last login": {
+    "bg": "Последно вписване",
+    "es": "Último inicio de sesión"
+  },
+  "Last month": {
+    "bg": "Миналия месец",
+    "es": "El mes pasado"
+  },
+  "Last year": {
+    "bg": "Миналата година",
+    "es": "El año pasado"
+  },
+  "Latest failed logins": {
+    "bg": "Последни неуспешни вписвания",
+    "es": "Últimos inicios de sesión fallidos"
+  },
+  "Leave household": {
+    "bg": "Напусни домакинството",
+    "es": "Salir del hogar"
+  },
+  "Leave the household? You will stop seeing the other members' accounts and transactions, and they will stop seeing yours. Nobody's data is deleted.": {
+    "bg": "Да напуснете ли домакинството? Няма да виждате сметките и транзакциите на другите членове, а те няма да виждат вашите. Данните на никого не се изтриват.",
+    "es": "¿Salir del hogar? Dejarás de ver las cuentas y transacciones de los demás miembros, y ellos dejarán de ver las tuyas. No se elimina ningún dato."
+  },
+  "Leave the household? You will stop seeing {name}'s accounts and transactions, and they will stop seeing yours. Nobody's data is deleted.": {
+    "bg": "Да напуснете ли домакинството? Няма да виждате сметките и транзакциите на {name}, а те няма да виждат вашите. Данните на никого не се изтриват.",
+    "es": "¿Salir del hogar? Dejarás de ver las cuentas y transacciones de {name}, y esa persona dejará de ver las tuyas. No se elimina ningún dato."
+  },
+  "Light": {
+    "bg": "Светла",
+    "es": "Claro"
+  },
+  "Limit": {
+    "bg": "Лимит",
+    "es": "Límite"
+  },
+  "Limit ({symbol})": {
+    "bg": "Лимит ({symbol})",
+    "es": "Límite ({symbol})"
+  },
+  "Loading page": {
+    "bg": "Зареждане на страницата",
+    "es": "Cargando la página"
+  },
+  "Log in": {
+    "bg": "Вход",
+    "es": "Iniciar sesión"
+  },
+  "Log out": {
+    "bg": "Изход",
+    "es": "Cerrar sesión"
+  },
+  "Logging in…": {
+    "bg": "Вписване…",
+    "es": "Iniciando sesión…"
+  },
+  "Login attempts, newest first": {
+    "bg": "Опити за вписване, най-новите първи",
+    "es": "Intentos de inicio de sesión, los más recientes primero"
+  },
+  "Login history is kept for 90 days.": {
+    "bg": "Историята на вписванията се пази 90 дни.",
+    "es": "El historial de inicios de sesión se conserva 90 días."
+  },
+  "Logins": {
+    "bg": "Вписвания",
+    "es": "Inicios de sesión"
+  },
+  "Main": {
+    "bg": "Основно",
+    "es": "Principal"
+  },
+  "Me": {
+    "bg": "Аз",
+    "es": "Yo"
+  },
+  "Menu": {
+    "bg": "Меню",
+    "es": "Menú"
+  },
+  "Message": {
+    "bg": "Съобщение",
+    "es": "Mensaje"
+  },
+  "Mine": {
+    "bg": "Моите",
+    "es": "Mías"
+  },
+  "Money at the end of each month: initial balances plus income, minus expenses, with transfers.": {
+    "bg": "Парите в края на всеки месец: начални салда плюс приходи, минус разходи, с преводите.",
+    "es": "El dinero al final de cada mes: saldos iniciales más ingresos, menos gastos, con las transferencias."
+  },
+  "Month": {
+    "bg": "Месец",
+    "es": "Mes"
+  },
+  "Month by month": {
+    "bg": "Месец по месец",
+    "es": "Mes a mes"
+  },
+  "Month(s)": {
+    "bg": "Месец/месеци",
+    "es": "Mes(es)"
+  },
+  "Monthly": {
+    "bg": "Месечен",
+    "es": "Mensual"
+  },
+  "Months": {
+    "bg": "Месеци",
+    "es": "Meses"
+  },
+  "Must be at least 1": {
+    "bg": "Трябва да е поне 1",
+    "es": "Debe ser al menos 1"
+  },
+  "Must be at most {max}": {
+    "bg": "Трябва да е най-много {max}",
+    "es": "Debe ser como máximo {max}"
+  },
+  "Name": {
+    "bg": "Име",
+    "es": "Nombre"
+  },
+  "Name is required": {
+    "bg": "Името е задължително",
+    "es": "El nombre es obligatorio"
+  },
+  "Name must be at most {max} characters": {
+    "bg": "Името трябва да е най-много {max} знака",
+    "es": "El nombre debe tener como máximo {max} caracteres"
+  },
+  "Name or email": {
+    "bg": "Име или имейл",
+    "es": "Nombre o correo electrónico"
+  },
+  "Net": {
+    "bg": "Нетно",
+    "es": "Neto"
+  },
+  "Net in each of the last 6 months": {
+    "bg": "Нетен резултат във всеки от последните 6 месеца",
+    "es": "Neto en cada uno de los últimos 6 meses"
+  },
+  "Net this month": {
+    "bg": "Нетно този месец",
+    "es": "Neto este mes"
+  },
+  "Never": {
+    "bg": "Никога",
+    "es": "Nunca"
+  },
+  "New": {
+    "bg": "Ново",
+    "es": "Nuevo"
+  },
+  "New here?": {
+    "bg": "Нов тук?",
+    "es": "¿Eres nuevo?"
+  },
+  "New in 7 days": {
+    "bg": "Нови за 7 дни",
+    "es": "Nuevos en 7 días"
+  },
+  "New password": {
+    "bg": "Нова парола",
+    "es": "Nueva contraseña"
+  },
+  "New signups": {
+    "bg": "Нови регистрации",
+    "es": "Nuevos registros"
+  },
+  "New signups are closed. The register page says so and no account can be created. Existing users are not affected.": {
+    "bg": "Новите регистрации са затворени. Страницата за регистрация го казва и не може да се създаде акаунт. Съществуващите потребители не са засегнати.",
+    "es": "Los nuevos registros están cerrados. La página de registro lo indica y no se puede crear ninguna cuenta. Los usuarios existentes no se ven afectados."
+  },
+  "New signups are currently closed.": {
+    "bg": "Новите регистрации в момента са затворени.",
+    "es": "Los nuevos registros están cerrados por ahora."
+  },
+  "New signups are currently closed. Please check back later.": {
+    "bg": "Новите регистрации в момента са затворени. Моля, опитайте отново по-късно.",
+    "es": "Los nuevos registros están cerrados por ahora. Vuelve a intentarlo más tarde."
+  },
+  "New users": {
+    "bg": "Нови потребители",
+    "es": "Usuarios nuevos"
+  },
+  "Next": {
+    "bg": "Напред",
+    "es": "Siguiente"
+  },
+  "Next {date}": {
+    "bg": "Следваща: {date}",
+    "es": "Próxima: {date}"
+  },
+  "No account": {
+    "bg": "Няма сметка",
+    "es": "Sin cuenta"
+  },
+  "No accounts to show": {
+    "bg": "Няма сметки за показване",
+    "es": "No hay cuentas que mostrar"
+  },
+  "No accounts yet": {
+    "bg": "Още няма сметки",
+    "es": "Aún no hay cuentas"
+  },
+  "No accounts yet.": {
+    "bg": "Още няма сметки.",
+    "es": "Aún no hay cuentas."
+  },
+  "No active recurring transactions.": {
+    "bg": "Няма активни повтарящи се транзакции.",
+    "es": "No hay transacciones recurrentes activas."
+  },
+  "No admin actions yet": {
+    "bg": "Още няма действия на администратори",
+    "es": "Aún no hay acciones de administradores"
+  },
+  "No announcements yet": {
+    "bg": "Още няма съобщения",
+    "es": "Aún no hay anuncios"
+  },
+  "No banner is showing. Write a short message to show one to every signed-in user.": {
+    "bg": "Не се показва банер. Напишете кратко съобщение, за да го покажете на всеки вписан потребител.",
+    "es": "No se muestra ningún banner. Escribe un mensaje breve para mostrarlo a todos los usuarios con sesión iniciada."
+  },
+  "No budgets yet": {
+    "bg": "Още няма бюджети",
+    "es": "Aún no hay presupuestos"
+  },
+  "No budgets yet.": {
+    "bg": "Още няма бюджети.",
+    "es": "Aún no hay presupuestos."
+  },
+  "No category": {
+    "bg": "Без категория",
+    "es": "Sin categoría"
+  },
+  "No change vs {period}": {
+    "bg": "Без промяна спрямо {period}",
+    "es": "Sin cambios respecto a {period}"
+  },
+  "No deleted goals": {
+    "bg": "Няма изтрити цели",
+    "es": "No hay metas eliminadas"
+  },
+  "No expense categories": {
+    "bg": "Няма категории за разходи",
+    "es": "No hay categorías de gastos"
+  },
+  "No expenses this month yet.": {
+    "bg": "Още няма разходи този месец.",
+    "es": "Aún no hay gastos este mes."
+  },
+  "No expenses to compare": {
+    "bg": "Няма разходи за сравнение",
+    "es": "No hay gastos que comparar"
+  },
+  "No expenses to report": {
+    "bg": "Няма разходи за отчет",
+    "es": "No hay gastos que informar"
+  },
+  "No failed logins.": {
+    "bg": "Няма неуспешни вписвания.",
+    "es": "No hay inicios de sesión fallidos."
+  },
+  "No goals yet": {
+    "bg": "Още няма цели",
+    "es": "Aún no hay metas"
+  },
+  "No goals yet.": {
+    "bg": "Още няма цели.",
+    "es": "Aún no hay metas."
+  },
+  "No income categories": {
+    "bg": "Няма категории за приходи",
+    "es": "No hay categorías de ingresos"
+  },
+  "No income in this period": {
+    "bg": "Няма приходи през този период",
+    "es": "Sin ingresos en este periodo"
+  },
+  "No income to compare": {
+    "bg": "Няма приходи за сравнение",
+    "es": "No hay ingresos que comparar"
+  },
+  "No income to report": {
+    "bg": "Няма приходи за отчет",
+    "es": "No hay ingresos que informar"
+  },
+  "No logins match": {
+    "bg": "Няма съвпадащи вписвания",
+    "es": "Ningún inicio de sesión coincide"
+  },
+  "No logins recorded": {
+    "bg": "Няма записани вписвания",
+    "es": "No hay inicios de sesión registrados"
+  },
+  "No logins recorded yet": {
+    "bg": "Още няма записани вписвания",
+    "es": "Aún no hay inicios de sesión registrados"
+  },
+  "No matches": {
+    "bg": "Няма съвпадения",
+    "es": "Sin coincidencias"
+  },
+  "No money has been added to this goal yet.": {
+    "bg": "Към тази цел още не са добавени пари.",
+    "es": "Aún no se ha añadido dinero a esta meta."
+  },
+  "No open goals": {
+    "bg": "Няма отворени цели",
+    "es": "No hay metas abiertas"
+  },
+  "No tags yet": {
+    "bg": "Още няма тагове",
+    "es": "Aún no hay etiquetas"
+  },
+  "No tags yet. You can create tags under Profile → Tags.": {
+    "bg": "Още няма тагове. Можете да ги създадете в Профил → Тагове.",
+    "es": "Aún no hay etiquetas. Puedes crearlas en Perfil → Etiquetas."
+  },
+  "No transactions in the last 6 months.": {
+    "bg": "Няма транзакции през последните 6 месеца.",
+    "es": "No hay transacciones en los últimos 6 meses."
+  },
+  "No transactions match your filters": {
+    "bg": "Няма транзакции, отговарящи на филтрите ви",
+    "es": "Ninguna transacción coincide con tus filtros"
+  },
+  "No transactions to report": {
+    "bg": "Няма транзакции за отчет",
+    "es": "No hay transacciones que informar"
+  },
+  "No transactions yet": {
+    "bg": "Още няма транзакции",
+    "es": "Aún no hay transacciones"
+  },
+  "No transactions yet.": {
+    "bg": "Още няма транзакции.",
+    "es": "Aún no hay transacciones."
+  },
+  "No users match": {
+    "bg": "Няма съвпадащи потребители",
+    "es": "Ningún usuario coincide"
+  },
+  "No users yet": {
+    "bg": "Още няма потребители",
+    "es": "Aún no hay usuarios"
+  },
+  "No users yet.": {
+    "bg": "Още няма потребители.",
+    "es": "Aún no hay usuarios."
+  },
+  "No {status} goals": {
+    "bg": "Няма {status} цели",
+    "es": "No hay metas {status}"
+  },
+  "None": {
+    "bg": "Няма",
+    "es": "Ninguna"
+  },
+  "Not blocked": {
+    "bg": "Не е блокиран",
+    "es": "No bloqueado"
+  },
+  "Not signed in anywhere": {
+    "bg": "Не е вписан никъде",
+    "es": "Sin sesión iniciada en ningún sitio"
+  },
+  "Not verified": {
+    "bg": "Непотвърден",
+    "es": "Sin verificar"
+  },
+  "Note": {
+    "bg": "Бележка",
+    "es": "Nota"
+  },
+  "Note must be at most {max} characters": {
+    "bg": "Бележката трябва да е най-много {max} знака",
+    "es": "La nota debe tener como máximo {max} caracteres"
+  },
+  "Nothing here yet.": {
+    "bg": "Още няма нищо тук.",
+    "es": "Todavía no hay nada aquí."
+  },
+  "Nothing matches these filters in either period. Clear the filters or choose other periods.": {
+    "bg": "Нищо не отговаря на тези филтри в нито един от периодите. Изчистете филтрите или изберете други периоди.",
+    "es": "Nada coincide con estos filtros en ninguno de los periodos. Borra los filtros o elige otros periodos."
+  },
+  "Nothing matches these filters in this period. Try a longer period or clear the filters.": {
+    "bg": "Нищо не отговаря на тези филтри през този период. Опитайте по-дълъг период или изчистете филтрите.",
+    "es": "Nada coincide con estos filtros en este periodo. Prueba un periodo más largo o borra los filtros."
+  },
+  "Nothing repeats yet. Add rent, salary or savings once and the entries are created for you.": {
+    "bg": "Още нищо не се повтаря. Добавете наем, заплата или спестявания веднъж и записите се създават вместо вас.",
+    "es": "Todavía no se repite nada. Añade el alquiler, el sueldo o los ahorros una vez y los registros se crean por ti."
+  },
+  "Nothing saved yet. Add money to see the progress here.": {
+    "bg": "Още няма спестено. Добавете пари, за да видите напредъка тук.",
+    "es": "Aún no hay nada ahorrado. Añade dinero para ver aquí el progreso."
+  },
+  "Nothing was added in the last 3 months.": {
+    "bg": "През последните 3 месеца не е добавяно нищо.",
+    "es": "No se añadió nada en los últimos 3 meses."
+  },
+  "OK": {
+    "bg": "Добре",
+    "es": "Aceptar"
+  },
+  "Off": {
+    "bg": "Изкл.",
+    "es": "Desactivado"
+  },
+  "On": {
+    "bg": "Вкл.",
+    "es": "Activado"
+  },
+  "Only changes how amounts are shown, nothing is converted. Example: {example}": {
+    "bg": "Променя само как се показват сумите, нищо не се преобразува. Пример: {example}",
+    "es": "Solo cambia cómo se muestran los importes, no se convierte nada. Ejemplo: {example}"
+  },
+  "Only counts are shown. Admins cannot see a user's financial data.": {
+    "bg": "Показват се само бройки. Администраторите не могат да виждат финансовите данни на потребителя.",
+    "es": "Solo se muestran recuentos. Los administradores no pueden ver los datos financieros de un usuario."
+  },
+  "Open WalletHistory": {
+    "bg": "Отвори WalletHistory",
+    "es": "Abrir WalletHistory"
+  },
+  "Open menu": {
+    "bg": "Отвори менюто",
+    "es": "Abrir menú"
+  },
+  "Other": {
+    "bg": "Други",
+    "es": "Otros"
+  },
+  "Other browser": {
+    "bg": "Друг браузър",
+    "es": "Otro navegador"
+  },
+  "Over by": {
+    "bg": "Надвишено с",
+    "es": "Excedido en"
+  },
+  "Over target by": {
+    "bg": "Над целта с",
+    "es": "Por encima de la meta en"
+  },
+  "Overdue since {date}": {
+    "bg": "Просрочена от {date}",
+    "es": "Vencida desde el {date}"
+  },
+  "Overview": {
+    "bg": "Общ преглед",
+    "es": "Resumen"
+  },
+  "Page": {
+    "bg": "Страница",
+    "es": "Página"
+  },
+  "Page not found": {
+    "bg": "Страницата не е намерена",
+    "es": "Página no encontrada"
+  },
+  "Page {page} of {pageCount}": {
+    "bg": "Страница {page} от {pageCount}",
+    "es": "Página {page} de {pageCount}"
+  },
+  "Pagination": {
+    "bg": "Странициране",
+    "es": "Paginación"
+  },
+  "Password": {
+    "bg": "Парола",
+    "es": "Contraseña"
+  },
+  "Password changed. Your other devices have been signed out.": {
+    "bg": "Паролата е променена. Другите ви устройства са отписани.",
+    "es": "Contraseña cambiada. Se cerró la sesión en tus otros dispositivos."
+  },
+  "Password must be at least {min} characters": {
+    "bg": "Паролата трябва да е поне {min} знака",
+    "es": "La contraseña debe tener al menos {min} caracteres"
+  },
+  "Password must be at most {max} characters": {
+    "bg": "Паролата трябва да е най-много {max} знака",
+    "es": "La contraseña debe tener como máximo {max} caracteres"
+  },
+  "Password updated. Log in with your new password.": {
+    "bg": "Паролата е обновена. Влезте с новата си парола.",
+    "es": "Contraseña actualizada. Inicia sesión con tu nueva contraseña."
+  },
+  "Passwords do not match": {
+    "bg": "Паролите не съвпадат",
+    "es": "Las contraseñas no coinciden"
+  },
+  "Pause {name}": {
+    "bg": "Пауза: {name}",
+    "es": "Pausar {name}"
+  },
+  "Paused": {
+    "bg": "На пауза",
+    "es": "En pausa"
+  },
+  "Paused: not used for over 2 years": {
+    "bg": "На пауза: не е използвано повече от 2 години",
+    "es": "En pausa: sin uso durante más de 2 años"
+  },
+  "Paused: the destination is no longer shared with you": {
+    "bg": "На пауза: местоназначението вече не е споделено с вас",
+    "es": "En pausa: el destino ya no está compartido contigo"
+  },
+  "Paused: the goal is no longer open": {
+    "bg": "На пауза: целта вече не е отворена",
+    "es": "En pausa: la meta ya no está abierta"
+  },
+  "Pending invitations": {
+    "bg": "Чакащи покани",
+    "es": "Invitaciones pendientes"
+  },
+  "Per day over the last {days} days: {summary}.": {
+    "bg": "На ден през последните {days} дни: {summary}.",
+    "es": "Por día en los últimos {days} días: {summary}."
+  },
+  "Per month, with the net as a line. Transfers between accounts are not counted.": {
+    "bg": "По месеци, с нетния резултат като линия. Преводите между сметки не се броят.",
+    "es": "Por mes, con el neto como línea. No se cuentan las transferencias entre cuentas."
+  },
+  "Period": {
+    "bg": "Период",
+    "es": "Periodo"
+  },
+  "Period comparison": {
+    "bg": "Сравнение на периоди",
+    "es": "Comparación de periodos"
+  },
+  "Period shortcuts": {
+    "bg": "Бързи периоди",
+    "es": "Atajos de periodo"
+  },
+  "Person": {
+    "bg": "Човек",
+    "es": "Persona"
+  },
+  "Plain text, {count} of {max} characters.": {
+    "bg": "Обикновен текст, {count} от {max} знака.",
+    "es": "Texto sin formato, {count} de {max} caracteres."
+  },
+  "Please fix the highlighted fields.": {
+    "bg": "Поправете маркираните полета.",
+    "es": "Corrige los campos marcados."
+  },
+  "Please verify your email before logging in.": {
+    "bg": "Моля, потвърдете имейла си преди да влезете.",
+    "es": "Verifica tu correo electrónico antes de iniciar sesión."
+  },
+  "Preview": {
+    "bg": "Преглед",
+    "es": "Vista previa"
+  },
+  "Previous": {
+    "bg": "Назад",
+    "es": "Anterior"
+  },
+  "Previous announcements": {
+    "bg": "Предишни съобщения",
+    "es": "Anuncios anteriores"
+  },
+  "Profile": {
+    "bg": "Профил",
+    "es": "Perfil"
+  },
+  "Profile saved.": {
+    "bg": "Профилът е запазен.",
+    "es": "Perfil guardado."
+  },
+  "Profile → Accounts": {
+    "bg": "Профил → Сметки",
+    "es": "Perfil → Cuentas"
+  },
+  "Profile → Categories": {
+    "bg": "Профил → Категории",
+    "es": "Perfil → Categorías"
+  },
+  "Progress over time": {
+    "bg": "Напредък във времето",
+    "es": "Progreso a lo largo del tiempo"
+  },
+  "Publish banner": {
+    "bg": "Публикувай банера",
+    "es": "Publicar banner"
+  },
+  "Published": {
+    "bg": "Публикувано",
+    "es": "Publicado"
+  },
+  "Published announcement": {
+    "bg": "Публикувано съобщение",
+    "es": "Publicó un anuncio"
+  },
+  "Put aside": {
+    "bg": "Отделяйте",
+    "es": "Aparta"
+  },
+  "Reason: {reason}": {
+    "bg": "Причина: {reason}",
+    "es": "Motivo: {reason}"
+  },
+  "Recent logins": {
+    "bg": "Последни вписвания",
+    "es": "Inicios de sesión recientes"
+  },
+  "Recent signups": {
+    "bg": "Последни регистрации",
+    "es": "Registros recientes"
+  },
+  "Recent transactions": {
+    "bg": "Последни транзакции",
+    "es": "Transacciones recientes"
+  },
+  "Recently the goal gets about {amount} a month.": {
+    "bg": "Напоследък целта получава около {amount} на месец.",
+    "es": "Últimamente la meta recibe unos {amount} al mes."
+  },
+  "Record your income and expenses to see where your money goes.": {
+    "bg": "Записвайте приходите и разходите си, за да видите къде отиват парите ви.",
+    "es": "Registra tus ingresos y gastos para ver adónde va tu dinero."
+  },
+  "Recurring": {
+    "bg": "Повтарящи се",
+    "es": "Recurrentes"
+  },
+  "Recurring transactions": {
+    "bg": "Повтарящи се транзакции",
+    "es": "Transacciones recurrentes"
+  },
+  "Regional": {
+    "bg": "Регионални",
+    "es": "Regional"
+  },
+  "Regional settings": {
+    "bg": "Регионални настройки",
+    "es": "Ajustes regionales"
+  },
+  "Remaining": {
+    "bg": "Остава",
+    "es": "Restante"
+  },
+  "Remove banner": {
+    "bg": "Премахни банера",
+    "es": "Quitar banner"
+  },
+  "Remove member": {
+    "bg": "Премахни члена",
+    "es": "Quitar miembro"
+  },
+  "Remove {name}": {
+    "bg": "Премахни {name}",
+    "es": "Quitar a {name}"
+  },
+  "Remove {name}? You will stop seeing each other's accounts and transactions. Nobody's data is deleted.": {
+    "bg": "Да премахнете ли {name}? Няма да виждате сметките и транзакциите си един на друг. Данните на никого не се изтриват.",
+    "es": "¿Quitar a {name}? Dejaréis de ver las cuentas y transacciones del otro. No se elimina ningún dato."
+  },
+  "Repeat": {
+    "bg": "Повтаряне",
+    "es": "Repetir"
+  },
+  "Repeat this automatically": {
+    "bg": "Повтаряй това автоматично",
+    "es": "Repetir esto automáticamente"
+  },
+  "Repeats": {
+    "bg": "Повтаря се",
+    "es": "Se repite"
+  },
+  "Report filters": {
+    "bg": "Филтри на отчета",
+    "es": "Filtros del informe"
+  },
+  "Reports": {
+    "bg": "Отчети",
+    "es": "Informes"
+  },
+  "Request a new link": {
+    "bg": "Поискайте нова връзка",
+    "es": "Solicitar un enlace nuevo"
+  },
+  "Resend verification email": {
+    "bg": "Изпрати отново имейла за потвърждение",
+    "es": "Reenviar correo de verificación"
+  },
+  "Reset password": {
+    "bg": "Нулиране на паролата",
+    "es": "Restablecer contraseña"
+  },
+  "Reset your WalletHistory password": {
+    "bg": "Нулирайте паролата си в WalletHistory",
+    "es": "Restablece tu contraseña de WalletHistory"
+  },
+  "Restore": {
+    "bg": "Възстанови",
+    "es": "Restaurar"
+  },
+  "Result": {
+    "bg": "Резултат",
+    "es": "Resultado"
+  },
+  "Resume {name}": {
+    "bg": "Поднови: {name}",
+    "es": "Reanudar {name}"
+  },
+  "Review invitation": {
+    "bg": "Прегледай поканата",
+    "es": "Revisar invitación"
+  },
+  "Role": {
+    "bg": "Роля",
+    "es": "Rol"
+  },
+  "Role changes, blocks, deletions and other admin actions are listed here.": {
+    "bg": "Промени на роли, блокирания, изтривания и други действия на администратори са изброени тук.",
+    "es": "Aquí se listan los cambios de rol, bloqueos, eliminaciones y otras acciones de administradores."
+  },
+  "Save": {
+    "bg": "Запази",
+    "es": "Guardar"
+  },
+  "Save changes": {
+    "bg": "Запази промените",
+    "es": "Guardar cambios"
+  },
+  "Save profile": {
+    "bg": "Запази профила",
+    "es": "Guardar perfil"
+  },
+  "Save role": {
+    "bg": "Запази ролята",
+    "es": "Guardar rol"
+  },
+  "Saved": {
+    "bg": "Запазено",
+    "es": "Guardado"
+  },
+  "Saved amount in the goal over time, with the target as a dashed line. The same movements are listed below.": {
+    "bg": "Спестена сума в целта във времето, с целта като пунктирана линия. Същите движения са изброени по-долу.",
+    "es": "Importe ahorrado en la meta a lo largo del tiempo, con el objetivo como línea discontinua. Los mismos movimientos se listan abajo."
+  },
+  "Saved in goals": {
+    "bg": "Спестено в цели",
+    "es": "Ahorrado en metas"
+  },
+  "Saved in the audit log, for example: user asked by email on 10 Oct.": {
+    "bg": "Записва се в дневника на действията, например: потребителят е поискал по имейл на 10 окт.",
+    "es": "Se guarda en el registro de acciones, por ejemplo: el usuario lo pidió por correo el 10 oct."
+  },
+  "Saved.": {
+    "bg": "Запазено.",
+    "es": "Guardado."
+  },
+  "Savings": {
+    "bg": "Спестявания",
+    "es": "Ahorros"
+  },
+  "Savings rate": {
+    "bg": "Норма на спестяване",
+    "es": "Tasa de ahorro"
+  },
+  "Saving…": {
+    "bg": "Запазване…",
+    "es": "Guardando…"
+  },
+  "Say why this export is needed": {
+    "bg": "Кажете защо е нужен този експорт",
+    "es": "Indica por qué se necesita esta exportación"
+  },
+  "Search": {
+    "bg": "Търсене",
+    "es": "Buscar"
+  },
+  "Search notes": {
+    "bg": "Търсене в бележките",
+    "es": "Buscar en las notas"
+  },
+  "See all": {
+    "bg": "Виж всички",
+    "es": "Ver todo"
+  },
+  "Select…": {
+    "bg": "Изберете…",
+    "es": "Seleccionar…"
+  },
+  "Send invitation": {
+    "bg": "Изпрати поканата",
+    "es": "Enviar invitación"
+  },
+  "Send reset link": {
+    "bg": "Изпрати връзка за нулиране",
+    "es": "Enviar enlace de restablecimiento"
+  },
+  "Sending…": {
+    "bg": "Изпращане…",
+    "es": "Enviando…"
+  },
+  "Set a budget": {
+    "bg": "Задайте бюджет",
+    "es": "Define un presupuesto"
+  },
+  "Set a new password": {
+    "bg": "Задайте нова парола",
+    "es": "Establece una contraseña nueva"
+  },
+  "Set new password": {
+    "bg": "Задай новата парола",
+    "es": "Establecer nueva contraseña"
+  },
+  "Set one up": {
+    "bg": "Настройте",
+    "es": "Configúralo"
+  },
+  "Settings": {
+    "bg": "Настройки",
+    "es": "Ajustes"
+  },
+  "Settings saved.": {
+    "bg": "Настройките са запазени.",
+    "es": "Ajustes guardados."
+  },
+  "Share a read-only view of your accounts and transactions with people you trust, like a partner or family.": {
+    "bg": "Споделете изглед само за четене на сметките и транзакциите си с хора, на които вярвате, като партньор или семейство.",
+    "es": "Comparte una vista de solo lectura de tus cuentas y transacciones con personas de confianza, como tu pareja o tu familia."
+  },
+  "Share of expenses per category. The same numbers are in the table.": {
+    "bg": "Дял на разходите по категории. Същите числа са в таблицата.",
+    "es": "Parte de los gastos por categoría. Los mismos números están en la tabla."
+  },
+  "Share of income not spent": {
+    "bg": "Дял от приходите, който не е изразходван",
+    "es": "Parte de los ingresos que no se gastó"
+  },
+  "Share of income per category. The same numbers are in the table.": {
+    "bg": "Дял на приходите по категории. Същите числа са в таблицата.",
+    "es": "Parte de los ingresos por categoría. Los mismos números están en la tabla."
+  },
+  "Share of this month's expenses per category. The same numbers are listed next to it.": {
+    "bg": "Дял на разходите този месец по категории. Същите числа са изброени до нея.",
+    "es": "Parte de los gastos de este mes por categoría. Los mismos números están listados al lado."
+  },
+  "Share with my household": {
+    "bg": "Споделяй с моето домакинство",
+    "es": "Compartir con mi hogar"
+  },
+  "Shared": {
+    "bg": "Споделена",
+    "es": "Compartida"
+  },
+  "Shared with me": {
+    "bg": "Споделени с мен",
+    "es": "Compartidas conmigo"
+  },
+  "Show": {
+    "bg": "Покажи",
+    "es": "Mostrar"
+  },
+  "Showing": {
+    "bg": "Показва се",
+    "es": "Visible"
+  },
+  "Showing one user's attempts.": {
+    "bg": "Показват се опитите на един потребител.",
+    "es": "Se muestran los intentos de un solo usuario."
+  },
+  "Sign in to accept or decline. The invitation expires in 14 days. If you do not know this person, decline it.": {
+    "bg": "Влезте, за да приемете или откажете. Поканата изтича след 14 дни. Ако не познавате този човек, откажете я.",
+    "es": "Inicia sesión para aceptar o rechazar. La invitación caduca en 14 días. Si no conoces a esta persona, recházala."
+  },
+  "Sign out": {
+    "bg": "Отписване",
+    "es": "Cerrar sesión"
+  },
+  "Sign out everywhere": {
+    "bg": "Отпиши отвсякъде",
+    "es": "Cerrar sesión en todas partes"
+  },
+  "Sign out everywhere?": {
+    "bg": "Да отпишете ли отвсякъде?",
+    "es": "¿Cerrar sesión en todas partes?"
+  },
+  "Signed in": {
+    "bg": "Вписан от",
+    "es": "Sesión iniciada"
+  },
+  "Signed in on": {
+    "bg": "Вписан на",
+    "es": "Sesión iniciada el"
+  },
+  "Signed out everywhere": {
+    "bg": "Отписан отвсякъде",
+    "es": "Cerró sesión en todas partes"
+  },
+  "Signed out one device": {
+    "bg": "Отписан от едно устройство",
+    "es": "Cerró sesión en un dispositivo"
+  },
+  "Signed up": {
+    "bg": "Регистриран на",
+    "es": "Registrado"
+  },
+  "Signups": {
+    "bg": "Регистрации",
+    "es": "Registros"
+  },
+  "Signups are closed": {
+    "bg": "Регистрациите са затворени",
+    "es": "Los registros están cerrados"
+  },
+  "Skip to content": {
+    "bg": "Към съдържанието",
+    "es": "Saltar al contenido"
+  },
+  "Something went wrong": {
+    "bg": "Нещо се обърка",
+    "es": "Algo salió mal"
+  },
+  "Something went wrong. Please try again.": {
+    "bg": "Нещо се обърка. Моля, опитайте отново.",
+    "es": "Algo salió mal. Inténtalo de nuevo."
+  },
+  "Spending": {
+    "bg": "Харчове",
+    "es": "Gastos"
+  },
+  "Spending by category": {
+    "bg": "Разходи по категории",
+    "es": "Gastos por categoría"
+  },
+  "Spending this month": {
+    "bg": "Разходи този месец",
+    "es": "Gastos de este mes"
+  },
+  "Spent": {
+    "bg": "Похарчено",
+    "es": "Gastado"
+  },
+  "Spent more than earned": {
+    "bg": "Похарчено повече от спечеленото",
+    "es": "Gastaste más de lo que ganaste"
+  },
+  "Start tracking your money.": {
+    "bg": "Започнете да следите парите си.",
+    "es": "Empieza a controlar tu dinero."
+  },
+  "Status": {
+    "bg": "Статус",
+    "es": "Estado"
+  },
+  "Style": {
+    "bg": "Стил",
+    "es": "Estilo"
+  },
+  "Summary": {
+    "bg": "Обобщение",
+    "es": "Resumen"
+  },
+  "System": {
+    "bg": "Система",
+    "es": "Sistema"
+  },
+  "Tag": {
+    "bg": "Таг",
+    "es": "Etiqueta"
+  },
+  "Tags": {
+    "bg": "Тагове",
+    "es": "Etiquetas"
+  },
+  "Tags are free-form labels you can add to transactions, like “vacation” or “work”.": {
+    "bg": "Таговете са свободни маркери, които можете да добавяте към транзакции, като „ваканция“ или „работа“.",
+    "es": "Las etiquetas son marcas libres que puedes añadir a las transacciones, como «vacaciones» o «trabajo»."
+  },
+  "Take money out": {
+    "bg": "Изтегли пари",
+    "es": "Retirar dinero"
+  },
+  "Target": {
+    "bg": "Цел (сума)",
+    "es": "Objetivo"
+  },
+  "Target ({symbol})": {
+    "bg": "Цел ({symbol})",
+    "es": "Objetivo ({symbol})"
+  },
+  "That email does not match this user.": {
+    "bg": "Този имейл не съвпада с този потребител.",
+    "es": "Ese correo electrónico no coincide con este usuario."
+  },
+  "That password is not correct.": {
+    "bg": "Тази парола не е правилна.",
+    "es": "Esa contraseña no es correcta."
+  },
+  "That would leave less in the goal than you already took out.": {
+    "bg": "Така в целта ще остане по-малко, отколкото вече сте изтеглили.",
+    "es": "Así quedaría en la meta menos de lo que ya retiraste."
+  },
+  "The account": {
+    "bg": "Сметката",
+    "es": "La cuenta"
+  },
+  "The balance before any transactions. The current balance is calculated.": {
+    "bg": "Балансът преди каквито и да е транзакции. Текущият баланс се изчислява.",
+    "es": "El saldo antes de cualquier transacción. El saldo actual se calcula."
+  },
+  "The balance of {account} is corrected.": {
+    "bg": "Балансът на {account} се коригира.",
+    "es": "El saldo de {account} se corrige."
+  },
+  "The date above is the first entry. Leave this empty to repeat until you stop it under Profile → Recurring.": {
+    "bg": "Датата по-горе е първият запис. Оставете празно, за да се повтаря, докато го спрете в Профил → Повтарящи се.",
+    "es": "La fecha de arriba es el primer registro. Déjalo vacío para repetir hasta que lo detengas en Perfil → Recurrentes."
+  },
+  "The largest expense categories, side by side.": {
+    "bg": "Най-големите категории за разходи, една до друга.",
+    "es": "Las mayores categorías de gastos, una al lado de la otra."
+  },
+  "The largest income categories, side by side.": {
+    "bg": "Най-големите категории за приходи, една до друга.",
+    "es": "Las mayores categorías de ingresos, una al lado de la otra."
+  },
+  "The page you are looking for does not exist or was moved.": {
+    "bg": "Страницата, която търсите, не съществува или е преместена.",
+    "es": "La página que buscas no existe o se ha movido."
+  },
+  "The rule stops by itself once the goal reaches its target.": {
+    "bg": "Правилото спира само, когато целта достигне сумата си.",
+    "es": "La regla se detiene sola cuando la meta alcanza su objetivo."
+  },
+  "The type cannot be changed after creation.": {
+    "bg": "Типът не може да се променя след създаването.",
+    "es": "El tipo no se puede cambiar después de crearlo."
+  },
+  "Theme: {theme}. Switch to {next}": {
+    "bg": "Тема: {theme}. Превключване към {next}",
+    "es": "Tema: {theme}. Cambiar a {next}"
+  },
+  "There is no account for these filters.": {
+    "bg": "Няма сметка за тези филтри.",
+    "es": "No hay ninguna cuenta para estos filtros."
+  },
+  "They are signed out everywhere and cannot log in until you unblock them. Their data is kept.": {
+    "bg": "Отписва се отвсякъде и не може да влиза, докато не го отблокирате. Данните му се запазват.",
+    "es": "Se cierra su sesión en todas partes y no podrá iniciar sesión hasta que lo desbloquees. Sus datos se conservan."
+  },
+  "They must already have a WalletHistory account.": {
+    "bg": "Трябва вече да има акаунт в WalletHistory.",
+    "es": "Debe tener ya una cuenta de WalletHistory."
+  },
+  "This account has transactions. Delete or move them before deleting the account.": {
+    "bg": "Тази сметка има транзакции. Изтрийте или преместете ги, преди да изтриете сметката.",
+    "es": "Esta cuenta tiene transacciones. Elimínalas o muévelas antes de eliminar la cuenta."
+  },
+  "This banner is showing to every signed-in user. Publishing a new one replaces it.": {
+    "bg": "Този банер се показва на всеки вписан потребител. Публикуването на нов го заменя.",
+    "es": "Este banner se muestra a todos los usuarios con sesión iniciada. Publicar uno nuevo lo reemplaza."
+  },
+  "This category is used by transactions. Delete or recategorize them before deleting the category.": {
+    "bg": "Тази категория се използва в транзакции. Изтрийте ги или ги прекатегоризирайте, преди да изтриете категорията.",
+    "es": "Esta categoría se usa en transacciones. Elimínalas o recategorízalas antes de eliminar la categoría."
+  },
+  "This goal cannot take that change any more.": {
+    "bg": "Тази цел вече не може да приеме тази промяна.",
+    "es": "Esta meta ya no admite ese cambio."
+  },
+  "This goal is archived": {
+    "bg": "Тази цел е архивирана",
+    "es": "Esta meta está archivada"
+  },
+  "This goal is archived. Restore it to add money.": {
+    "bg": "Тази цел е архивирана. Възстановете я, за да добавите пари.",
+    "es": "Esta meta está archivada. Restáurala para añadir dinero."
+  },
+  "This goal no longer exists.": {
+    "bg": "Тази цел вече не съществува.",
+    "es": "Esta meta ya no existe."
+  },
+  "This goal still has money in it. Take the money out first, or archive the goal.": {
+    "bg": "В тази цел още има пари. Първо изтеглете парите или архивирайте целта.",
+    "es": "Esta meta aún tiene dinero. Retira primero el dinero o archiva la meta."
+  },
+  "This goal still has movements on an existing account. Restore it, or delete those accounts first.": {
+    "bg": "Тази цел още има движения по съществуваща сметка. Възстановете я или първо изтрийте тези сметки.",
+    "es": "Esta meta aún tiene movimientos en una cuenta existente. Restáurala o elimina primero esas cuentas."
+  },
+  "This invitation is no longer valid.": {
+    "bg": "Тази покана вече не е валидна.",
+    "es": "Esta invitación ya no es válida."
+  },
+  "This is your own account. Role, blocking and deleting are not available for yourself.": {
+    "bg": "Това е вашият акаунт. Роля, блокиране и изтриване не са налични за вас самите.",
+    "es": "Esta es tu propia cuenta. El rol, el bloqueo y la eliminación no están disponibles para ti mismo."
+  },
+  "This item no longer exists.": {
+    "bg": "Този елемент вече не съществува.",
+    "es": "Este elemento ya no existe."
+  },
+  "This link expires in 1 hour. If you did not ask for this, you can ignore this email.": {
+    "bg": "Тази връзка изтича след 1 час. Ако не сте го поискали, можете да игнорирате този имейл.",
+    "es": "Este enlace caduca en 1 hora. Si no lo pediste, puedes ignorar este correo."
+  },
+  "This link expires in 24 hours. If you did not sign up, you can ignore this email.": {
+    "bg": "Тази връзка изтича след 24 часа. Ако не сте се регистрирали, можете да игнорирате този имейл.",
+    "es": "Este enlace caduca en 24 horas. Si no te registraste, puedes ignorar este correo."
+  },
+  "This link is invalid or has expired.": {
+    "bg": "Тази връзка е невалидна или е изтекла.",
+    "es": "Este enlace no es válido o ha caducado."
+  },
+  "This member is no longer in your household.": {
+    "bg": "Този член вече не е във вашето домакинство.",
+    "es": "Este miembro ya no está en tu hogar."
+  },
+  "This month": {
+    "bg": "Този месец",
+    "es": "Este mes"
+  },
+  "This permanently deletes": {
+    "bg": "Това изтрива завинаги",
+    "es": "Esto elimina definitivamente a"
+  },
+  "This permanently deletes your account and all of your accounts, categories, tags, transactions, and budgets. This cannot be undone.": {
+    "bg": "Това изтрива завинаги акаунта ви и всичките ви сметки, категории, тагове, транзакции и бюджети. Не може да се отмени.",
+    "es": "Esto elimina definitivamente tu cuenta y todas tus cuentas, categorías, etiquetas, transacciones y presupuestos. No se puede deshacer."
+  },
+  "This reset link is invalid": {
+    "bg": "Тази връзка за нулиране е невалидна",
+    "es": "Este enlace de restablecimiento no es válido"
+  },
+  "This reset link is invalid or has expired.": {
+    "bg": "Тази връзка за нулиране е невалидна или е изтекла.",
+    "es": "Este enlace de restablecimiento no es válido o ha caducado."
+  },
+  "This rule has ended. Change its end date to use it again.": {
+    "bg": "Това правило е приключило. Променете крайната му дата, за да го използвате отново.",
+    "es": "Esta regla ha finalizado. Cambia su fecha de fin para volver a usarla."
+  },
+  "This session no longer exists.": {
+    "bg": "Тази сесия вече не съществува.",
+    "es": "Esta sesión ya no existe."
+  },
+  "This user no longer exists.": {
+    "bg": "Този потребител вече не съществува.",
+    "es": "Este usuario ya no existe."
+  },
+  "This year": {
+    "bg": "Тази година",
+    "es": "Este año"
+  },
+  "Time": {
+    "bg": "Час",
+    "es": "Hora"
+  },
+  "Timezone": {
+    "bg": "Часова зона",
+    "es": "Zona horaria"
+  },
+  "To": {
+    "bg": "До",
+    "es": "Hasta"
+  },
+  "To account": {
+    "bg": "Към сметка",
+    "es": "A la cuenta"
+  },
+  "To delete this goal, take all the money out first (each person takes out their own share), or archive it.": {
+    "bg": "За да изтриете тази цел, първо изтеглете всички пари (всеки изтегля собствения си дял) или я архивирайте.",
+    "es": "Para eliminar esta meta, retira primero todo el dinero (cada persona retira su parte) o archívala."
+  },
+  "To delete this goal, take all the money out first, or archive it.": {
+    "bg": "За да изтриете тази цел, първо изтеглете всички пари или я архивирайте.",
+    "es": "Para eliminar esta meta, retira primero todo el dinero o archívala."
+  },
+  "Top categories in {a} compared with {b}. The same numbers are in the table below.": {
+    "bg": "Водещи категории в {a} в сравнение с {b}. Същите числа са в таблицата по-долу.",
+    "es": "Principales categorías en {a} comparadas con {b}. Los mismos números están en la tabla de abajo."
+  },
+  "Total": {
+    "bg": "Общо",
+    "es": "Total"
+  },
+  "Total balance": {
+    "bg": "Общ баланс",
+    "es": "Saldo total"
+  },
+  "Total balance at the end of each month. The same numbers are in the table below.": {
+    "bg": "Общ баланс в края на всеки месец. Същите числа са в таблицата по-долу.",
+    "es": "Saldo total al final de cada mes. Los mismos números están en la tabla de abajo."
+  },
+  "Total balance at the end of each of the last 6 months": {
+    "bg": "Общ баланс в края на всеки от последните 6 месеца",
+    "es": "Saldo total al final de cada uno de los últimos 6 meses"
+  },
+  "Total target": {
+    "bg": "Обща цел",
+    "es": "Objetivo total"
+  },
+  "Totals for the period": {
+    "bg": "Общо за периода",
+    "es": "Totales del periodo"
+  },
+  "Track your accounts, transactions, and budgets.": {
+    "bg": "Следете сметките, транзакциите и бюджетите си.",
+    "es": "Controla tus cuentas, transacciones y presupuestos."
+  },
+  "Transactions": {
+    "bg": "Транзакции",
+    "es": "Transacciones"
+  },
+  "Transactions, newest first": {
+    "bg": "Транзакции, най-новите първи",
+    "es": "Transacciones, las más recientes primero"
+  },
+  "Transfer": {
+    "bg": "Превод",
+    "es": "Transferencia"
+  },
+  "Transfers that other people sent to this user's accounts are removed too, which changes the sender's history. A household left with one person is dissolved.": {
+    "bg": "Преводите, които други хора са изпратили към сметките на този потребител, също се премахват, което променя историята на изпращача. Домакинство, останало с един човек, се разпуска.",
+    "es": "Las transferencias que otras personas enviaron a las cuentas de este usuario también se eliminan, lo que cambia el historial del remitente. Un hogar que se queda con una sola persona se disuelve."
+  },
+  "Travel to Japan": {
+    "bg": "Пътуване до Япония",
+    "es": "Viaje a Japón"
+  },
+  "Try a different date range or clear the filters.": {
+    "bg": "Опитайте друг период или изчистете филтрите.",
+    "es": "Prueba con otro rango de fechas o borra los filtros."
+  },
+  "Try a different search or filter.": {
+    "bg": "Опитайте друго търсене или филтър.",
+    "es": "Prueba con otra búsqueda o filtro."
+  },
+  "Try again": {
+    "bg": "Опитайте отново",
+    "es": "Intentar de nuevo"
+  },
+  "Turn signups off": {
+    "bg": "Изключи регистрациите",
+    "es": "Desactivar registros"
+  },
+  "Turn signups on": {
+    "bg": "Включи регистрациите",
+    "es": "Activar registros"
+  },
+  "Turned signups off": {
+    "bg": "Изключени регистрации",
+    "es": "Desactivó los registros"
+  },
+  "Turned signups on": {
+    "bg": "Включени регистрации",
+    "es": "Activó los registros"
+  },
+  "Type": {
+    "bg": "Тип",
+    "es": "Tipo"
+  },
+  "Type the user's email to confirm": {
+    "bg": "Въведете имейла на потребителя, за да потвърдите",
+    "es": "Escribe el correo electrónico del usuario para confirmar"
+  },
+  "Type to search. Decides which day \"today\" is for budgets, reports and recurring entries. Now {offset}.": {
+    "bg": "Пишете, за да търсите. Определя кой ден е „днес“ за бюджетите, отчетите и повтарящите се записи. Сега е {offset}.",
+    "es": "Escribe para buscar. Decide qué día es «hoy» para los presupuestos, informes y registros recurrentes. Ahora es {offset}."
+  },
+  "Type {email} to confirm": {
+    "bg": "Въведете {email}, за да потвърдите",
+    "es": "Escribe {email} para confirmar"
+  },
+  "Unblock": {
+    "bg": "Отблокирай",
+    "es": "Desbloquear"
+  },
+  "Unblocked": {
+    "bg": "Отблокиран",
+    "es": "Desbloqueado"
+  },
+  "Uncategorized": {
+    "bg": "Без категория",
+    "es": "Sin categoría"
+  },
+  "Unknown": {
+    "bg": "Неизвестно",
+    "es": "Desconocido"
+  },
+  "Unknown IP": {
+    "bg": "Неизвестен IP",
+    "es": "IP desconocida"
+  },
+  "Unknown email": {
+    "bg": "Неизвестен имейл",
+    "es": "Correo electrónico desconocido"
+  },
+  "Use at most 300 characters": {
+    "bg": "Използвайте най-много 300 знака",
+    "es": "Usa como máximo 300 caracteres"
+  },
+  "Use at most {max} characters": {
+    "bg": "Използвайте най-много {max} знака",
+    "es": "Usa como máximo {max} caracteres"
+  },
+  "Use at most {max} tags": {
+    "bg": "Използвайте най-много {max} тага",
+    "es": "Usa como máximo {max} etiquetas"
+  },
+  "User": {
+    "bg": "Потребител",
+    "es": "Usuario"
+  },
+  "Users": {
+    "bg": "Потребители",
+    "es": "Usuarios"
+  },
+  "Users by status": {
+    "bg": "Потребители по статус",
+    "es": "Usuarios por estado"
+  },
+  "Users, newest first": {
+    "bg": "Потребители, най-новите първи",
+    "es": "Usuarios, los más recientes primero"
+  },
+  "Users: {summary}": {
+    "bg": "Потребители: {summary}",
+    "es": "Usuarios: {summary}"
+  },
+  "Verify email": {
+    "bg": "Потвърди имейла",
+    "es": "Verificar correo electrónico"
+  },
+  "Verify your WalletHistory email": {
+    "bg": "Потвърдете имейла си в WalletHistory",
+    "es": "Verifica tu correo electrónico de WalletHistory"
+  },
+  "Verify your email": {
+    "bg": "Потвърдете имейла си",
+    "es": "Verifica tu correo electrónico"
+  },
+  "View all": {
+    "bg": "Виж всички",
+    "es": "Ver todo"
+  },
+  "WalletHistory could not load. Please try again.": {
+    "bg": "WalletHistory не можа да се зареди. Моля, опитайте отново.",
+    "es": "WalletHistory no se pudo cargar. Inténtalo de nuevo."
+  },
+  "Warning": {
+    "bg": "Предупреждение",
+    "es": "Advertencia"
+  },
+  "We could not load this page. Please try again.": {
+    "bg": "Не можахме да заредим тази страница. Моля, опитайте отново.",
+    "es": "No pudimos cargar esta página. Inténtalo de nuevo."
+  },
+  "We received a request to reset your password.": {
+    "bg": "Получихме заявка за нулиране на паролата ви.",
+    "es": "Recibimos una solicitud para restablecer tu contraseña."
+  },
+  "We use cookies to keep you signed in and to remember your settings.": {
+    "bg": "Използваме бисквитки, за да останете влезли в профила си и да запомним настройките ви.",
+    "es": "Usamos cookies para mantener tu sesión iniciada y recordar tus ajustes."
+  },
+  "Week(s)": {
+    "bg": "Седмица/седмици",
+    "es": "Semana(s)"
+  },
+  "Weekly": {
+    "bg": "Седмичен",
+    "es": "Semanal"
+  },
+  "Weekly covers the current week (Monday to Sunday), monthly the current calendar month.": {
+    "bg": "Седмичният обхваща текущата седмица (от понеделник до неделя), месечният – текущия календарен месец.",
+    "es": "El semanal abarca la semana actual (de lunes a domingo), el mensual el mes natural actual."
+  },
+  "Welcome back.": {
+    "bg": "Добре дошли отново.",
+    "es": "Bienvenido de nuevo."
+  },
+  "Welcome to WalletHistory": {
+    "bg": "Добре дошли в WalletHistory",
+    "es": "Te damos la bienvenida a WalletHistory"
+  },
+  "What": {
+    "bg": "Какво",
+    "es": "Qué"
+  },
+  "When": {
+    "bg": "Кога",
+    "es": "Cuándo"
+  },
+  "Where the money came from": {
+    "bg": "Откъде дойдоха парите",
+    "es": "De dónde vino el dinero"
+  },
+  "Where the money went": {
+    "bg": "Къде отидоха парите",
+    "es": "Adónde fue el dinero"
+  },
+  "Who saved": {
+    "bg": "Кой е спестил",
+    "es": "Quién ahorró"
+  },
+  "Whose goals": {
+    "bg": "Чии цели",
+    "es": "Metas de quién"
+  },
+  "Why is this export needed?": {
+    "bg": "Защо е нужен този експорт?",
+    "es": "¿Por qué se necesita esta exportación?"
+  },
+  "Withdrawal": {
+    "bg": "Теглене",
+    "es": "Retiro"
+  },
+  "Working…": {
+    "bg": "Работи се…",
+    "es": "Trabajando…"
+  },
+  "Wrong password": {
+    "bg": "Грешна парола",
+    "es": "Contraseña incorrecta"
+  },
+  "Year(s)": {
+    "bg": "Година/години",
+    "es": "Año(s)"
+  },
+  "Years": {
+    "bg": "Години",
+    "es": "Años"
+  },
+  "You": {
+    "bg": "Вие",
+    "es": "Tú"
+  },
+  "You are already in a household. Leave it first to join another.": {
+    "bg": "Вече сте в домакинство. Първо го напуснете, за да се присъедините към друго.",
+    "es": "Ya estás en un hogar. Sal primero de él para unirte a otro."
+  },
+  "You are not sharing with anyone yet. Invite someone below.": {
+    "bg": "Още не споделяте с никого. Поканете някого по-долу.",
+    "es": "Todavía no compartes con nadie. Invita a alguien más abajo."
+  },
+  "You can take out at most {amount}, what you put into this goal": {
+    "bg": "Можете да изтеглите най-много {amount} – толкова, колкото сте внесли в тази цел",
+    "es": "Puedes retirar como máximo {amount}, lo que aportaste a esta meta"
+  },
+  "You can take out up to {amount}.": {
+    "bg": "Можете да изтеглите до {amount}.",
+    "es": "Puedes retirar hasta {amount}."
+  },
+  "You can't do this to your own account.": {
+    "bg": "Не можете да правите това със собствения си акаунт.",
+    "es": "No puedes hacer esto con tu propia cuenta."
+  },
+  "You can't invite yourself.": {
+    "bg": "Не можете да поканите себе си.",
+    "es": "No puedes invitarte a ti mismo."
+  },
+  "You have no money in this goal": {
+    "bg": "Нямате пари в тази цел",
+    "es": "No tienes dinero en esta meta"
+  },
+  "You have too many pending invitations. Cancel some first.": {
+    "bg": "Имате твърде много чакащи покани. Първо отменете някои.",
+    "es": "Tienes demasiadas invitaciones pendientes. Cancela algunas primero."
+  },
+  "You no longer have admin access.": {
+    "bg": "Вече нямате администраторски достъп.",
+    "es": "Ya no tienes acceso de administrador."
+  },
+  "Your account is ready. A Cash account and a set of default categories are already set up for you.": {
+    "bg": "Акаунтът ви е готов. Сметка „В брой“ и набор от категории по подразбиране вече са настроени за вас.",
+    "es": "Tu cuenta está lista. Ya tienes una cuenta de Efectivo y un conjunto de categorías predeterminadas configurados."
+  },
+  "Your email cannot be changed.": {
+    "bg": "Имейлът ви не може да се променя.",
+    "es": "Tu correo electrónico no se puede cambiar."
+  },
+  "a month to reach the target by the deadline.": {
+    "bg": "на месец, за да постигнете целта до крайния срок.",
+    "es": "al mes para alcanzar la meta antes de la fecha límite."
+  },
+  "accounts, categories, tags, transactions, transfers and budgets. It contains personal financial data: send it only to the user, and do not keep a copy. It is not stored on the server.": {
+    "bg": "сметки, категории, тагове, транзакции, преводи и бюджети. Съдържа лични финансови данни: изпращайте го само на потребителя и не пазете копие. Не се съхранява на сървъра.",
+    "es": "cuentas, categorías, etiquetas, transacciones, transferencias y presupuestos. Contiene datos financieros personales: envíalo solo al usuario y no guardes copia. No se almacena en el servidor."
+  },
+  "active": {
+    "bg": "активна",
+    "es": "activa"
+  },
+  "and all of their accounts, categories, tags, transactions, transfers and budgets. This cannot be undone.": {
+    "bg": "и всичките му сметки, категории, тагове, транзакции, преводи и бюджети. Това не може да се отмени.",
+    "es": "y todas sus cuentas, categorías, etiquetas, transacciones, transferencias y presupuestos. Esto no se puede deshacer."
+  },
+  "days": {
+    "bg": "дни",
+    "es": "días"
+  },
+  "deposit": {
+    "bg": "депозит",
+    "es": "depósito"
+  },
+  "deposit of {amount} on {date}": {
+    "bg": "депозит от {amount} на {date}",
+    "es": "depósito de {amount} el {date}"
+  },
+  "due {date}": {
+    "bg": "срок {date}",
+    "es": "vence el {date}"
+  },
+  "ends {date}": {
+    "bg": "свършва на {date}",
+    "es": "termina el {date}"
+  },
+  "invited you to share a household.": {
+    "bg": "ви покани да споделите домакинство.",
+    "es": "te invitó a compartir un hogar."
+  },
+  "monthly budget for {category}": {
+    "bg": "месечен бюджет за {category}",
+    "es": "presupuesto mensual de {category}"
+  },
+  "of": {
+    "bg": "от",
+    "es": "de"
+  },
+  "over by {amount}": {
+    "bg": "надвишено с {amount}",
+    "es": "excedido en {amount}"
+  },
+  "overdue since {date}": {
+    "bg": "просрочена от {date}",
+    "es": "vencida desde el {date}"
+  },
+  "previous 24 hours": {
+    "bg": "предишните 24 часа",
+    "es": "las 24 horas anteriores"
+  },
+  "previous 7 days": {
+    "bg": "предишните 7 дни",
+    "es": "los 7 días anteriores"
+  },
+  "this goal": {
+    "bg": "тази цел",
+    "es": "esta meta"
+  },
+  "to add budgets.": {
+    "bg": ", за да добавяте бюджети.",
+    "es": "para añadir presupuestos."
+  },
+  "to add money.": {
+    "bg": ", за да добавяте пари.",
+    "es": "para añadir dinero."
+  },
+  "transfer": {
+    "bg": "превод",
+    "es": "transferencia"
+  },
+  "transfer of {amount} on {date}": {
+    "bg": "превод от {amount} на {date}",
+    "es": "transferencia de {amount} el {date}"
+  },
+  "vs {period}": {
+    "bg": "спрямо {period}",
+    "es": "frente a {period}"
+  },
+  "vs. {period}": {
+    "bg": "спрямо {period}",
+    "es": "frente a {period}"
+  },
+  "vs. {range}": {
+    "bg": "спрямо {range}",
+    "es": "frente a {range}"
+  },
+  "weekly budget for {category}": {
+    "bg": "седмичен бюджет за {category}",
+    "es": "presupuesto semanal de {category}"
+  },
+  "withdrawal of {amount} on {date}": {
+    "bg": "теглене от {amount} на {date}",
+    "es": "retiro de {amount} el {date}"
+  },
+  "{account} no longer exists, so no balance changes.": {
+    "bg": "{account} вече не съществува, затова няма промяна в баланса.",
+    "es": "{account} ya no existe, así que ningún saldo cambia."
+  },
+  "{amount} set aside in goals": {
+    "bg": "{amount} отделени в цели",
+    "es": "{amount} reservados en metas"
+  },
+  "{amount} this month": {
+    "bg": "{amount} този месец",
+    "es": "{amount} este mes"
+  },
+  "{a} compared with {b}": {
+    "bg": "{a} в сравнение с {b}",
+    "es": "{a} comparado con {b}"
+  },
+  "{a} compared with {b}.": {
+    "bg": "{a} в сравнение с {b}.",
+    "es": "{a} comparado con {b}."
+  },
+  "{a} vs. {b}": {
+    "bg": "{a} спрямо {b}",
+    "es": "{a} frente a {b}"
+  },
+  "{browser} on {os}": {
+    "bg": "{browser} на {os}",
+    "es": "{browser} en {os}"
+  },
+  "{category} monthly budget used": {
+    "bg": "Месечен бюджет „{category}“ – използвано",
+    "es": "Presupuesto mensual de {category} utilizado"
+  },
+  "{category} weekly budget used": {
+    "bg": "Седмичен бюджет „{category}“ – използвано",
+    "es": "Presupuesto semanal de {category} utilizado"
+  },
+  "{count, plural, one {# action} other {# actions}}": {
+    "bg": "{count, plural, one {# действие} other {# действия}}",
+    "es": "{count, plural, one {# acción} other {# acciones}}"
+  },
+  "{count, plural, one {# attempt} other {# attempts}}": {
+    "bg": "{count, plural, one {# опит} other {# опита}}",
+    "es": "{count, plural, one {# intento} other {# intentos}}"
+  },
+  "{count, plural, one {# incoming transfer removed} other {# incoming transfers removed}}": {
+    "bg": "{count, plural, one {# премахнат входящ превод} other {# премахнати входящи превода}}",
+    "es": "{count, plural, one {# transferencia entrante eliminada} other {# transferencias entrantes eliminadas}}"
+  },
+  "{count, plural, one {# session} other {# sessions}}": {
+    "bg": "{count, plural, one {# сесия} other {# сесии}}",
+    "es": "{count, plural, one {# sesión} other {# sesiones}}"
+  },
+  "{count, plural, one {# user} other {# users}}": {
+    "bg": "{count, plural, one {# потребител} other {# потребители}}",
+    "es": "{count, plural, one {# usuario} other {# usuarios}}"
+  },
+  "{count, plural, one {Every # day} other {Every # days}}": {
+    "bg": "{count, plural, one {На всеки # ден} other {На всеки # дни}}",
+    "es": "{count, plural, one {Cada # día} other {Cada # días}}"
+  },
+  "{count, plural, one {Every # month} other {Every # months}}": {
+    "bg": "{count, plural, one {На всеки # месец} other {На всеки # месеца}}",
+    "es": "{count, plural, one {Cada # mes} other {Cada # meses}}"
+  },
+  "{count, plural, one {Every # week} other {Every # weeks}}": {
+    "bg": "{count, plural, one {На всяка # седмица} other {На всеки # седмици}}",
+    "es": "{count, plural, one {Cada # semana} other {Cada # semanas}}"
+  },
+  "{count, plural, one {Every # year} other {Every # years}}": {
+    "bg": "{count, plural, one {На всяка # година} other {На всеки # години}}",
+    "es": "{count, plural, one {Cada # año} other {Cada # años}}"
+  },
+  "{count} in 30 days": {
+    "bg": "{count} за 30 дни",
+    "es": "{count} en 30 días"
+  },
+  "{inviter} invited you to a shared household on WalletHistory.": {
+    "bg": "{inviter} ви покани в общо домакинство в WalletHistory.",
+    "es": "{inviter} te invitó a un hogar compartido en WalletHistory."
+  },
+  "{inviter} invited you to share a household on WalletHistory": {
+    "bg": "{inviter} ви покани да споделите домакинство в WalletHistory",
+    "es": "{inviter} te invitó a compartir un hogar en WalletHistory"
+  },
+  "{kind} of {amount}, {schedule}": {
+    "bg": "{kind} от {amount}, {schedule}",
+    "es": "{kind} de {amount}, {schedule}"
+  },
+  "{name} has already reached its target. You can still add more.": {
+    "bg": "{name} вече е достигнала целта си. Можете да добавяте още.",
+    "es": "{name} ya alcanzó su objetivo. Aun así puedes añadir más."
+  },
+  "{name} progress": {
+    "bg": "Напредък на {name}",
+    "es": "Progreso de {name}"
+  },
+  "{name}'s goal": {
+    "bg": "Целта на {name}",
+    "es": "Meta de {name}"
+  },
+  "{name}'s share of the goal": {
+    "bg": "Дял на {name} в целта",
+    "es": "Parte de {name} en la meta"
+  },
+  "{owner}'s {category} monthly budget used": {
+    "bg": "Месечен бюджет „{category}“ на {owner} – използвано",
+    "es": "Presupuesto mensual de {category} de {owner} utilizado"
+  },
+  "{owner}'s {category} weekly budget used": {
+    "bg": "Седмичен бюджет „{category}“ на {owner} – използвано",
+    "es": "Presupuesto semanal de {category} de {owner} utilizado"
+  },
+  "{percent} of income saved": {
+    "bg": "{percent} от приходите спестени",
+    "es": "{percent} de los ingresos ahorrado"
+  },
+  "{start} to {end}": {
+    "bg": "{start} до {end}",
+    "es": "{start} a {end}"
+  },
+  "Too many attempts. Please wait a while and try again.": {
+    "bg": "Твърде много опити. Моля, изчакайте малко и опитайте отново.",
+    "es": "Demasiados intentos. Espera un rato e inténtalo de nuevo."
+  },
+  "Day total": {
+    "bg": "Общо за деня",
+    "es": "Total del día"
+  },
+  "{amount} left": {
+    "bg": "остават {amount}",
+    "es": "quedan {amount}"
+  },
+  "Forecast": {
+    "bg": "Прогноза",
+    "es": "Previsión"
+  },
+  "Forecast Report": {
+    "bg": "Прогноза за разходите",
+    "es": "Informe de previsión"
+  },
+  "Actual spending": {
+    "bg": "Реални разходи",
+    "es": "Gasto real"
+  },
+  "Projected spending": {
+    "bg": "Прогнозирани разходи",
+    "es": "Gasto proyectado"
+  },
+  "Actual and projected spending per month. The same numbers are in the table below.": {
+    "bg": "Реални и прогнозирани разходи по месеци. Същите числа са в таблицата по-долу.",
+    "es": "Gasto real y proyectado por mes. Los mismos números están en la tabla de abajo."
+  },
+  "No expenses to forecast": {
+    "bg": "Няма разходи за прогноза",
+    "es": "No hay gastos que prever"
+  },
+  "Nothing matches these filters in the complete months of this period. Try a longer period or clear the filters.": {
+    "bg": "Няма разходи, отговарящи на филтрите, в пълните месеци от периода. Опитайте с по-дълъг период или изчистете филтрите.",
+    "es": "Nada coincide con estos filtros en los meses completos de este período. Prueba un período más largo o quita los filtros."
+  },
+  "Need at least 2 months of history to forecast": {
+    "bg": "Нужни са поне 2 месеца история за прогноза",
+    "es": "Se necesitan al menos 2 meses de historial para prever"
+  },
+  "Only complete months count. Choose a period of at least two full months that has already ended.": {
+    "bg": "Броят се само пълните месеци. Изберете период от поне два цели месеца, които вече са приключили.",
+    "es": "Solo cuentan los meses completos. Elige un período de al menos dos meses enteros que ya hayan terminado."
+  },
+  "Based on only {count} months of data, so the forecast is a rough guide.": {
+    "bg": "Въз основа на само {count} месеца данни, така че прогнозата е ориентировъчна.",
+    "es": "Basado en solo {count} meses de datos, por lo que la previsión es solo orientativa."
+  },
+  "Forecast summary": {
+    "bg": "Обобщение на прогнозата",
+    "es": "Resumen de la previsión"
+  },
+  "Projected spending (next {count} months)": {
+    "bg": "Прогнозирани разходи (следващите {count} месеца)",
+    "es": "Gasto proyectado (próximos {count} meses)"
+  },
+  "{amount} per month": {
+    "bg": "{amount} на месец",
+    "es": "{amount} al mes"
+  },
+  "Year-end projection": {
+    "bg": "Прогноза до края на годината",
+    "es": "Proyección a fin de año"
+  },
+  "{amount} spent so far in {year}": {
+    "bg": "{amount} изразходвани през {year} досега",
+    "es": "{amount} gastados hasta ahora en {year}"
+  },
+  "Average per month": {
+    "bg": "Средно на месец",
+    "es": "Promedio mensual"
+  },
+  "Last month: {amount}": {
+    "bg": "Миналия месец: {amount}",
+    "es": "Mes pasado: {amount}"
+  },
+  "Trend": {
+    "bg": "Тенденция",
+    "es": "Tendencia"
+  },
+  "Recent months vs. earlier months": {
+    "bg": "Последните месеци спрямо по-ранните",
+    "es": "Meses recientes frente a los anteriores"
+  },
+  "Actual vs. projected": {
+    "bg": "Реални спрямо прогнозирани",
+    "es": "Real frente a proyectado"
+  },
+  "Spending per month so far, and the projection from {month} on.": {
+    "bg": "Разходи по месеци досега и прогноза от {month} нататък.",
+    "es": "Gasto mensual hasta ahora y la proyección a partir de {month}."
+  },
+  "By category": {
+    "bg": "По категории",
+    "es": "Por categoría"
+  },
+  "Projected amounts are per month.": {
+    "bg": "Прогнозираните суми са на месец.",
+    "es": "Los importes proyectados son mensuales."
+  },
+  "Last month, average, projection and trend per expense category": {
+    "bg": "Миналия месец, средно, прогноза и тенденция по категории разходи",
+    "es": "Último mes, promedio, proyección y tendencia por categoría de gasto"
+  },
+  "Average": {
+    "bg": "Средно",
+    "es": "Promedio"
+  },
+  "Projected": {
+    "bg": "Прогноза",
+    "es": "Proyectado"
+  },
+  "Increasing": {
+    "bg": "Нарастваща",
+    "es": "En aumento"
+  },
+  "Decreasing": {
+    "bg": "Намаляваща",
+    "es": "En descenso"
+  },
+  "Stable": {
+    "bg": "Стабилна",
+    "es": "Estable"
+  },
+  "stable": {
+    "bg": "стабилна",
+    "es": "estable"
+  },
+  "new": {
+    "bg": "нова",
+    "es": "nuevo"
+  },
+  "Last week": {
+    "bg": "Миналата седмица",
+    "es": "La semana pasada"
+  },
+  "Press the button to confirm your email address.": {
+    "bg": "Натиснете бутона, за да потвърдите имейл адреса си.",
+    "es": "Pulsa el botón para confirmar tu dirección de correo electrónico."
+  },
+  "Confirm email": {
+    "bg": "Потвърди имейла",
+    "es": "Confirmar correo electrónico"
+  },
+  "Enter your email to get a new verification link.": {
+    "bg": "Въведете имейла си, за да получите нов линк за потвърждение.",
+    "es": "Introduce tu correo electrónico para recibir un nuevo enlace de verificación."
+  },
+  "Budget alerts": {
+    "bg": "Бюджетни известия",
+    "es": "Alertas de presupuesto"
+  },
+  "View budgets": {
+    "bg": "Виж бюджетите",
+    "es": "Ver presupuestos"
+  },
+  "+{count} more": {
+    "bg": "+{count} още",
+    "es": "+{count} más"
+  },
+  "Dismiss alert for {name}": {
+    "bg": "Скрий известието за {name}",
+    "es": "Descartar la alerta de {name}"
+  },
+  "{name}: over your weekly budget ({spent} of {amount})": {
+    "bg": "{name}: надхвърлихте седмичния си бюджет ({spent} от {amount})",
+    "es": "{name}: superaste tu presupuesto semanal ({spent} de {amount})"
+  },
+  "{name}: over your monthly budget ({spent} of {amount})": {
+    "bg": "{name}: надхвърлихте месечния си бюджет ({spent} от {amount})",
+    "es": "{name}: superaste tu presupuesto mensual ({spent} de {amount})"
+  },
+  "{name}: {percent}% of your weekly budget used ({spent} of {amount})": {
+    "bg": "{name}: използвани са {percent}% от седмичния ви бюджет ({spent} от {amount})",
+    "es": "{name}: has usado el {percent}% de tu presupuesto semanal ({spent} de {amount})"
+  },
+  "{name}: {percent}% of your monthly budget used ({spent} of {amount})": {
+    "bg": "{name}: използвани са {percent}% от месечния ви бюджет ({spent} от {amount})",
+    "es": "{name}: has usado el {percent}% de tu presupuesto mensual ({spent} de {amount})"
+  },
+  "Show a warning at the top of every page when spending in one of your budgets is close to its limit, and another when it is over.": {
+    "bg": "Показвай предупреждение най-горе на всяка страница, когато разходите в някой от бюджетите ви наближат лимита, и друго, когато го надхвърлят.",
+    "es": "Muestra un aviso en la parte superior de cada página cuando el gasto de uno de tus presupuestos se acerque a su límite, y otro cuando lo supere."
+  },
+  "Show budget alerts": {
+    "bg": "Показвай бюджетни известия",
+    "es": "Mostrar alertas de presupuesto"
+  },
+  "Warn me at": {
+    "bg": "Предупреди ме при",
+    "es": "Avisarme al llegar al"
+  },
+  "Share of a budget's limit that triggers a warning. Going over the limit always shows an alert.": {
+    "bg": "Дял от лимита на бюджета, при който се показва предупреждение. Надхвърлянето на лимита винаги показва известие.",
+    "es": "Porcentaje del límite de un presupuesto que activa un aviso. Superar el límite siempre muestra una alerta."
+  },
+  "This alert is out of date.": {
+    "bg": "Това известие е остаряло.",
+    "es": "Esta alerta está desactualizada."
+  },
+  "Choose a warning level between 50% and 99%": {
+    "bg": "Изберете ниво на предупреждение между 50% и 99%",
+    "es": "Elige un nivel de aviso entre 50% y 99%"
+  },
+  "Choose whether budget alerts are on": {
+    "bg": "Изберете дали бюджетните известия да са включени",
+    "es": "Elige si las alertas de presupuesto están activadas"
+  },
+  "Invalid alert": {
+    "bg": "Невалидно известие",
+    "es": "Alerta no válida"
+  },
+  "income of {amount} on {date}": {
+    "bg": "приход от {amount} на {date}",
+    "es": "ingreso de {amount} el {date}"
+  },
+  "expense of {amount} on {date}": {
+    "bg": "разход от {amount} на {date}",
+    "es": "gasto de {amount} el {date}"
+  },
+  "Weekly budgets summary": {
+    "bg": "Обобщение на седмичните бюджети",
+    "es": "Resumen de presupuestos semanales"
+  },
+  "Monthly budgets summary": {
+    "bg": "Обобщение на месечните бюджети",
+    "es": "Resumen de presupuestos mensuales"
+  },
+  "Weekly budgets": {
+    "bg": "Седмични бюджети",
+    "es": "Presupuestos semanales"
+  },
+  "Monthly budgets": {
+    "bg": "Месечни бюджети",
+    "es": "Presupuestos mensuales"
+  },
+  "Budgeted": {
+    "bg": "Бюджет",
+    "es": "Presupuestado"
+  },
+  "{count} over the limit": {
+    "bg": "{count} над лимита",
+    "es": "{count} por encima del límite"
+  },
+  "{count} close to the limit": {
+    "bg": "{count} близо до лимита",
+    "es": "{count} cerca del límite"
+  },
+  "All budgets are on track": {
+    "bg": "Всички бюджети са в рамките на плана",
+    "es": "Todos los presupuestos van según lo previsto"
+  },
+  "All periods": {
+    "bg": "Всички периоди",
+    "es": "Todos los periodos"
+  },
+  "All statuses": {
+    "bg": "Всички статуси",
+    "es": "Todos los estados"
+  },
+  "Over the limit": {
+    "bg": "Над лимита",
+    "es": "Por encima del límite"
+  },
+  "Close to the limit": {
+    "bg": "Близо до лимита",
+    "es": "Cerca del límite"
+  },
+  "On track": {
+    "bg": "В рамките на плана",
+    "es": "Según lo previsto"
+  },
+  "Sort by": {
+    "bg": "Сортиране по",
+    "es": "Ordenar por"
+  },
+  "Most used": {
+    "bg": "Най-използвани",
+    "es": "Más usados"
+  },
+  "Least remaining": {
+    "bg": "Най-малко остатък",
+    "es": "Menor saldo restante"
+  },
+  "No budgets match these filters.": {
+    "bg": "Няма бюджети, които отговарят на филтрите.",
+    "es": "Ningún presupuesto coincide con estos filtros."
+  },
+  "View {category} transactions": {
+    "bg": "Покажи транзакциите за {category}",
+    "es": "Ver transacciones de {category}"
+  },
+  "At this pace you will spend {amount}, over the limit by the end of the period.": {
+    "bg": "С това темпо ще похарчите {amount}, над лимита до края на периода.",
+    "es": "A este ritmo gastará {amount}, por encima del límite al final del periodo."
+  },
+  "At this pace you will spend {amount} by the end of the period.": {
+    "bg": "С това темпо ще похарчите {amount} до края на периода.",
+    "es": "A este ritmo gastará {amount} al final del periodo."
+  },
+  "Today: {percent}% of the period has passed": {
+    "bg": "Днес: {percent}% от периода е изминал",
+    "es": "Hoy: ha pasado el {percent}% del periodo"
+  },
+  "{title} used": {
+    "bg": "{title}: използвани",
+    "es": "{title}: usado"
+  },
+  "Last 6 weeks": {
+    "bg": "Последните 6 седмици",
+    "es": "Últimas 6 semanas"
+  },
+  "{period}: spent {spent} of {limit}": {
+    "bg": "{period}: похарчени {spent} от {limit}",
+    "es": "{period}: gastado {spent} de {limit}"
+  },
+  "The dashed line is the limit ({limit}).": {
+    "bg": "Прекъснатата линия е лимитът ({limit}).",
+    "es": "La línea discontinua es el límite ({limit})."
+  },
+  "{amount} of recurring expenses are still to come, which would put you {over} over the limit.": {
+    "bg": "Предстоят още {amount} от повтарящи се разходи, които ще ви изведат {over} над лимита.",
+    "es": "Aún quedan {amount} de gastos recurrentes, lo que le dejaría {over} por encima del límite."
+  },
+  "{amount} of recurring expenses are still to come this period.": {
+    "bg": "Предстоят още {amount} от повтарящи се разходи през този период.",
+    "es": "Aún quedan {amount} de gastos recurrentes en este periodo."
+  },
+  "Default": {
+    "bg": "По подразбиране",
+    "es": "Predeterminada"
+  },
+  "Use as default account": {
+    "bg": "Използвай като сметка по подразбиране",
+    "es": "Usar como cuenta predeterminada"
+  },
+  "Preselected when you add a transaction. Only one account can be the default.": {
+    "bg": "Избира се предварително, когато добавяте транзакция. Само една сметка може да е по подразбиране.",
+    "es": "Se preselecciona al añadir una transacción. Solo una cuenta puede ser la predeterminada."
+  }
+}

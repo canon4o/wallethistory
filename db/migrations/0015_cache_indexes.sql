@@ -1,0 +1,2 @@
+CREATE INDEX "transactions_user_category_date_idx" ON "transactions" USING btree ("user_id","category_id","date" DESC NULLS LAST);--> statement-breakpoint
+CREATE INDEX "transactions_user_account_date_idx" ON "transactions" USING btree ("user_id","account_id","date" DESC NULLS LAST);

@@ -1,0 +1,294 @@
+@import "tailwindcss";
+@import "react-datepicker/dist/react-datepicker.css";
+
+@theme {
+  /* Brand */
+  --color-primary: #1aaaba;
+  --color-primary-light: #42b4c4;
+  /* Darker teal for text/links on light surfaces (primary itself is < 4.5:1 on white). */
+  --color-primary-strong: #0e7a87;
+  /* Selected state (menu links, chips, tabs): #0a5a64 on #e0f5f8 is 6.6:1. */
+  --color-primary-soft: #e0f5f8;
+  --color-primary-soft-foreground: #0a5a64;
+  /* Destructive buttons: white on #b3294a is 6.5:1. */
+  --color-danger: #b3294a;
+  --color-danger-hover: #962140;
+
+  /* Domain colors */
+  --color-income: #9cca56;
+  --color-expense: #df697f;
+  --color-planning: #ea9150; /* reserved for the future Planning section */
+  --color-goals: #ffd100; /* Goals section */
+  --color-accounts: #337ab7;
+  /* Dark text for income / expense / goals backgrounds. */
+  --color-on-accent: #1a2326;
+  /* Darker expense red for error/negative text on light surfaces (expense itself is ~3.2:1). */
+  --color-expense-text: #b3294a;
+  /* Darker income green for amounts and text on light surfaces (income itself is ~2:1). */
+  --color-income-text: #4d7a14;
+
+  /* Neutrals */
+  --color-background: #f5f8f9;
+  --color-surface: #ffffff;
+  --color-border: #dde5e8;
+  --color-text: #1a2326;
+  --color-muted: #5f7277;
+  /* Dimmed backdrop behind modals and the mobile menu. */
+  --color-scrim: rgb(26 35 38 / 0.4);
+
+  --font-sans: var(--font-comfortaa), system-ui, sans-serif;
+}
+
+html {
+  color-scheme: light;
+}
+
+/*
+ * Dark theme: only the tokens that depend on the surface are redefined; brand and domain fills
+ * (primary, income, expense, goals, accounts, danger) keep their values. <html data-theme> is
+ * "light", "dark" or "system" (see lib/theme.ts); "system" follows the OS setting.
+ */
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --color-primary-strong: #5cc7d4;
+  --color-primary-soft: #12383e;
+  --color-primary-soft-foreground: #a6e6ee;
+  --color-expense-text: #f0899d;
+  --color-income-text: #aad86a;
+  --color-background: #0f1719;
+  --color-surface: #182226;
+  --color-border: #2c3b40;
+  --color-text: #e6eef0;
+  --color-muted: #9aaeb3;
+  --color-scrim: rgb(0 0 0 / 0.6);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root[data-theme="system"] {
+    color-scheme: dark;
+    --color-primary-strong: #5cc7d4;
+    --color-primary-soft: #12383e;
+    --color-primary-soft-foreground: #a6e6ee;
+    --color-expense-text: #f0899d;
+    --color-income-text: #aad86a;
+    --color-background: #0f1719;
+    --color-surface: #182226;
+    --color-border: #2c3b40;
+    --color-text: #e6eef0;
+    --color-muted: #9aaeb3;
+    --color-scrim: rgb(0 0 0 / 0.6);
+  }
+}
+
+body {
+  background: var(--color-background);
+  color: var(--color-text);
+  font-family: var(--font-sans);
+}
+
+/*
+ * iOS Safari draws date inputs and selects with its own sizing, so they come out a different
+ * height and width from text fields. Drop the native look and give them the same box.
+ */
+input[type="text"],
+input[type="search"],
+input[type="email"],
+input[type="password"],
+input[type="number"],
+input[type="date"],
+input[type="month"],
+input[type="time"],
+select {
+  -webkit-appearance: none;
+  appearance: none;
+  height: 2.5rem;
+  min-width: 0;
+  line-height: 1.25rem;
+}
+
+input[type="date"]::-webkit-date-and-time-value,
+input[type="month"]::-webkit-date-and-time-value,
+input[type="time"]::-webkit-date-and-time-value {
+  min-height: 1.25rem;
+  text-align: left;
+}
+
+select {
+  padding-right: 2.25rem;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%235f7277' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 0.75rem center;
+  background-size: 1rem;
+}
+
+select:disabled {
+  background-color: var(--color-background);
+}
+
+/*
+ * react-datepicker (components/ui/DateInput.tsx): a flat, rounded calendar recolored with the
+ * semantic tokens so it follows the light and dark themes.
+ */
+.react-datepicker {
+  font-family: var(--font-sans);
+  background-color: var(--color-surface);
+  color: var(--color-text);
+  border: 1px solid var(--color-border);
+  border-radius: 0.75rem;
+  box-shadow: 0 10px 30px rgb(0 0 0 / 0.18);
+  padding: 0.5rem;
+}
+.react-datepicker-popper {
+  z-index: 60;
+}
+.react-datepicker__month-container {
+  float: none;
+}
+.react-datepicker__header {
+  background: transparent;
+  border-bottom: 0;
+  padding: 0.25rem 0 0;
+}
+.react-datepicker__current-month {
+  font-size: 0.875rem;
+  font-weight: 700;
+  color: var(--color-text);
+}
+.react-datepicker__month-dropdown-container,
+.react-datepicker__year-dropdown-container {
+  margin: 0.25rem 0.25rem 0.5rem;
+}
+.react-datepicker__month-select,
+.react-datepicker__year-select {
+  min-height: 2.25rem;
+  border: 1px solid var(--color-border);
+  border-radius: 0.5rem;
+  background-color: var(--color-surface);
+  color: var(--color-text);
+  font-size: 0.8125rem;
+  padding: 0 1.75rem 0 0.625rem;
+  background-position: right 0.5rem center;
+  background-size: 0.875rem;
+}
+.react-datepicker__day-names {
+  margin-top: 0.25rem;
+}
+.react-datepicker__day-name {
+  width: 2.5rem;
+  line-height: 2rem;
+  color: var(--color-muted);
+  font-size: 0.6875rem;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.react-datepicker__day {
+  width: 2.5rem;
+  line-height: 2.5rem;
+  margin: 0;
+  border-radius: 9999px;
+  color: var(--color-text);
+  font-size: 0.8125rem;
+}
+.react-datepicker__day:not([aria-disabled="true"]):hover {
+  background-color: var(--color-background);
+  color: var(--color-text);
+  border-radius: 9999px;
+}
+.react-datepicker__day--keyboard-selected {
+  background-color: transparent;
+  outline: 2px solid var(--color-primary-strong);
+  outline-offset: -2px;
+}
+.react-datepicker__day--today {
+  font-weight: 700;
+  box-shadow: inset 0 0 0 1px var(--color-primary-strong);
+}
+.react-datepicker__day--selected,
+.react-datepicker__day--selected:not([aria-disabled="true"]):hover,
+.react-datepicker__day--selected.react-datepicker__day--keyboard-selected {
+  background-color: var(--color-primary-soft);
+  color: var(--color-primary-soft-foreground);
+  font-weight: 700;
+  outline: 0;
+}
+.react-datepicker__day--outside-month {
+  color: var(--color-muted);
+  opacity: 0.6;
+}
+.react-datepicker__day--disabled {
+  color: var(--color-muted);
+  opacity: 0.4;
+}
+.react-datepicker__navigation {
+  top: 0.5rem;
+  width: 2.25rem;
+  height: 2.25rem;
+  border-radius: 9999px;
+}
+.react-datepicker__navigation:hover {
+  background-color: var(--color-background);
+}
+.react-datepicker__navigation-icon::before {
+  border-color: var(--color-muted);
+}
+.react-datepicker__close-icon::after {
+  background-color: transparent;
+  color: var(--color-muted);
+  font-size: 1.25rem;
+}
+/* Month picker (components/ui/MonthInput.tsx): a 3 x 4 grid of button-radius months under the year. */
+.react-datepicker__monthPicker {
+  width: 15.5rem;
+  padding: 0.25rem 0;
+}
+.react-datepicker__month-wrapper {
+  display: flex;
+  gap: 0.25rem;
+  margin-bottom: 0.25rem;
+}
+.react-datepicker__month .react-datepicker__month-text {
+  display: flex;
+  flex: 1;
+  align-items: center;
+  justify-content: center;
+  width: auto;
+  min-height: 2.5rem;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  border-radius: var(--radius-md);
+  color: var(--color-text);
+  font-size: 0.8125rem;
+}
+.react-datepicker__month .react-datepicker__month-text:not([aria-disabled="true"]):hover {
+  border-radius: var(--radius-md);
+  background-color: var(--color-background);
+  color: var(--color-text);
+}
+.react-datepicker__month .react-datepicker__month-text.react-datepicker__month-text--keyboard-selected {
+  background-color: transparent;
+  outline: 2px solid var(--color-primary-strong);
+  outline-offset: -2px;
+}
+.react-datepicker__month .react-datepicker__month-text.react-datepicker__month-text--selected,
+.react-datepicker__month .react-datepicker__month-text.react-datepicker__month-text--selected:not([aria-disabled="true"]):hover {
+  border-radius: var(--radius-md);
+  background-color: var(--color-primary-soft);
+  color: var(--color-primary-soft-foreground);
+  font-weight: 700;
+  outline: 0;
+}
+.react-datepicker__month .react-datepicker__month-text.react-datepicker__month-text--today {
+  font-weight: 700;
+  box-shadow: inset 0 0 0 1px var(--color-primary-strong);
+}
+.react-datepicker-year-header {
+  font-size: 0.875rem;
+  font-weight: 700;
+  color: var(--color-text);
+  background: transparent;
+  line-height: 2.25rem;
+}
+.react-datepicker__input-container input {
+  cursor: pointer;
+}
