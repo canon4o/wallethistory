@@ -3410,5 +3410,29 @@
   "Preselected when you add a transaction. Only one account can be the default.": {
     "bg": "Избира се предварително, когато добавяте транзакция. Само една сметка може да е по подразбиране.",
     "es": "Se preselecciona al añadir una transacción. Solo una cuenta puede ser la predeterminada."
+  },
+  "Quick add": {
+    "bg": "Бързо добавяне",
+    "es": "Añadir rápido"
+  },
+  "Goal deposit": {
+    "bg": "Вноска към цел",
+    "es": "Aporte a una meta"
+  },
+  "Loading…": {
+    "bg": "Зареждане…",
+    "es": "Cargando…"
+  },
+  "Could not load the form.": {
+    "bg": "Формулярът не можа да се зареди.",
+    "es": "No se pudo cargar el formulario."
+  },
+  "Create a goal first on the": {
+    "bg": "Първо създай цел на страницата",
+    "es": "Primero crea una meta en la página"
+  },
+  "Goals page": {
+    "bg": "Цели",
+    "es": "Metas"
   }
 }

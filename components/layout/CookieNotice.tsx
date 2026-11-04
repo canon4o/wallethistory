@@ -1,6 +1,6 @@
 "use client";
 
-import { useSyncExternalStore } from "react";
+import { useEffect, useSyncExternalStore } from "react";
 import { Button } from "@/components/ui/Button";
 import { useT } from "@/lib/i18n/client";
 
@@ -31,12 +31,20 @@ export function CookieNotice() {
   const t = useT();
   // The server never knows the choice, so it renders nothing; the client shows the notice after hydration.
   const acknowledged = useSyncExternalStore(subscribe, isAcknowledged, () => true);
+  // Lets the floating quick-add button sit above the notice instead of under it.
+  useEffect(() => {
+    if (acknowledged) return;
+    document.documentElement.dataset.cookieNotice = "";
+    return () => {
+      delete document.documentElement.dataset.cookieNotice;
+    };
+  }, [acknowledged]);
   if (acknowledged) return null;
   return (
     <div
       role="region"
       aria-label={t("Cookie notice")}
-      className="fixed inset-x-0 bottom-0 z-40 flex items-center gap-3 border-t border-border bg-surface px-4 py-3 text-sm text-text shadow-lg"
+      className="fixed inset-x-0 bottom-0 z-40 flex items-center gap-3 border-t border-border bg-surface px-4 pb-[calc(0.75rem+env(safe-area-inset-bottom))] pt-3 text-sm text-text shadow-lg"
     >
       <p className="min-w-0 flex-1">
         {t("We use cookies to keep you signed in and to remember your settings.")}

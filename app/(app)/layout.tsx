@@ -8,6 +8,7 @@ import { listBudgetAlerts, type BudgetAlert } from "@/lib/data/budget-alerts";
 import { BudgetAlerts } from "@/components/budgets/BudgetAlerts";
 import { AnnouncementBanner } from "@/components/layout/AnnouncementBanner";
 import { MobileNav } from "@/components/layout/MobileNav";
+import { QuickAdd } from "@/components/layout/QuickAdd";
 import { NavLinks } from "@/components/layout/NavLinks";
 import { RegionProvider } from "@/components/layout/RegionProvider";
 import { Sidebar } from "@/components/layout/Sidebar";
@@ -45,9 +46,10 @@ export default async function AppLayout({ children }: { children: ReactNode }) {
             <UserFooter user={user} />
           </MobileNav>
         </Topbar>
-        <main id="main" tabIndex={-1} className="flex-1 p-4 focus:outline-none md:p-6">
+        <main id="main" tabIndex={-1} className="flex-1 p-4 pb-24 focus:outline-none md:p-6 md:pb-6">
           {children}
         </main>
+        <QuickAdd />
       </div>
     </div>
     </RegionProvider>
