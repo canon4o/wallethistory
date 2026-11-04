@@ -77,7 +77,7 @@ export function QuickAdd() {
   const hidden = (scrolledAway || typing) && !open;
   const actions: Array<{ kind: QuickAddKind; label: string; icon: typeof Plus; className: string }> = [
     { kind: "goal", label: t("Goal deposit"), icon: Target, className: "bg-goals text-on-accent" },
-    { kind: "transfer", label: t("Add transfer"), icon: ArrowLeftRight, className: "bg-border text-text" },
+    { kind: "transfer", label: t("Add transfer"), icon: ArrowLeftRight, className: "bg-neutral text-on-accent" },
     { kind: "transaction", label: t("Add transaction"), icon: Plus, className: "bg-primary text-white" },
   ];
 

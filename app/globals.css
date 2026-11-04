@@ -20,6 +20,8 @@
   --color-planning: #ea9150; /* reserved for the future Planning section */
   --color-goals: #ffd100; /* Goals section */
   --color-accounts: #337ab7;
+  /* Light gray fill for neutral actions (quick-add transfer); the same in both themes, with --color-on-accent text. */
+  --color-neutral: #dde5e8;
   /* Dark text for income / expense / goals backgrounds. */
   --color-on-accent: #1a2326;
   /* Darker expense red for error/negative text on light surfaces (expense itself is ~3.2:1). */
